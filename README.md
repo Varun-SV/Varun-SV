@@ -1,19 +1,33 @@
-## Hello ***Reader***
-This is the self profile of myself (@Varun-SV or @therevprogamers)
+# Welcome to My GitHub Profile! 👋
 
-> ![My github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Varun-SV&show_icons=true&hide_border=true)
-> ![](https://komarev.com/ghpvc/?username=Varun-SV)
-> <!--**Varun-SV/Varun-SV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+Hi there, I'm Varun S V, a passionate developer from India.
 
-    
-<div align="center">
-<p align="left">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=Varun-SV&show_icons=true&&title_color=03E6FF&text_color=9f9f9f&theme=radical" />
-    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=Varun-SV&theme=darkt&hide_border=true" />
-</p>
-</div>
+## 🧐 About Me
 
-> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun-sv&hide=html&title_color=03E6FF&text_color=9f9f9f&icon_color=79ff97&bg_color=151515" />
-<summary><b>🏆 Github Achievements</b></summary><br>
-<p> <a href="https://github.com/Varun-SV"><img src="https://github-profile-trophy.vercel.app/?username=varun-sv" alt="Varun-SV" /></a> </p>
+- 🔭 I’m currently working on Automated Basketball Scoreboard
+- 🌱 I’m currently learning Robot Framework
+- 👯 I’m looking to collaborate on Basketball Scoring using OpenCV
+- 💬 Ask me about Python, C, C++, Java
+- 📫 How to reach me: varunsv077@gmail.com
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: Couple years ago I knew nothing about programming...
+
+## 🚀 My Skills
+
+- Programming languages: Python, C, C++, Java, Scala, HTML.
+- Frontend development: HTML, CSS, JS.
+- Backend development: Python, C++, Java.
+- Databases: MongoDB, Cassandra, MySQL
+- Tools: MySQL Workbench, VSCode, Pycharm, Anaconda.
+
+## 📊 My GitHub Stats
+
+[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Varun-SV&show_icons=true)](https://github.com/Varun-SV)
+
+## 🤝 Connect With Me
+
+- https://www.linkedin.com/in/varun-s-v-aa647a2bb
+- varunsv077@gmail.com
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-SV&theme=radical)
 
