@@ -14,19 +14,20 @@ jobs:
 
       - name: Fetch Quote
         run: |
-          QUOTE=$(curl -s https://zenquotes.io/api/random | jq -r '.[0].q')
-          AUTHOR=$(curl -s https://zenquotes.io/api/random | jq -r '.[0].a')
+          RESPONSE=$(curl -s https://zenquotes.io/api/random)
+          QUOTE=$(echo $RESPONSE | jq -r '.[0].q')
+          AUTHOR=$(echo $RESPONSE | jq -r '.[0].a')
           FORMATTED="**\"$QUOTE\"**  — *$AUTHOR*"
-          echo "QUOTE=$FORMATTED" >> $GITHUB_ENV
+          echo "FORMATTED=$FORMATTED" >> $GITHUB_ENV
 
       - name: Update README
         run: |
-          sed -i '/<!--QUOTE_START-->/,/<!--QUOTE_END-->/c\\<!--QUOTE_START-->\n$QUOTE\n<!--QUOTE_END-->' README.md
+          sed -i "/<!--QUOTE_START-->/,/<!--QUOTE_END-->/c\\<!--QUOTE_START-->\n$FORMATTED\n<!--QUOTE_END-->" README.md
 
       - name: Commit and Push
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git add README.md
-          git commit -m "chore: update daily quote"
+          git commit -m "chore: update daily quote" || echo "No changes to commit"
           git push
