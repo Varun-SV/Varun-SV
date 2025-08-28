@@ -1,25 +1,32 @@
-name: Update README
+name: Update README with Daily Quote
 
 on:
   schedule:
     - cron: "0 0 * * *" # Runs daily at midnight UTC
-  workflow_dispatch: # Allow manual trigger
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout Repository
+      - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Update GitHub Stats in README
-        uses: lowlighter/metrics@latest
-        with:
-          filename: README.md
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Kolkata
-          plugin_isocalendar: yes
-          plugin_languages: yes
-          plugin_stars: yes
+      - name: Fetch Quote
+        run: |
+          QUOTE=$(curl -s https://zenquotes.io/api/random | jq -r '.[0].q')
+          AUTHOR=$(curl -s https://zenquotes.io/api/random | jq -r '.[0].a')
+          FORMATTED="**\"$QUOTE\"**  — *$AUTHOR*"
+          echo "QUOTE=$FORMATTED" >> $GITHUB_ENV
+
+      - name: Update README
+        run: |
+          sed -i '/<!--QUOTE_START-->/,/<!--QUOTE_END-->/c\\<!--QUOTE_START-->\n$QUOTE\n<!--QUOTE_END-->' README.md
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add README.md
+          git commit -m "chore: update daily quote"
+          git push
