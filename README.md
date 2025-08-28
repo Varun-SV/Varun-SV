@@ -8,9 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-
-Loading today's wisdom...
-
+**"Love is the absence of judgment."**  — *Dalai Lama*
 <!--QUOTE_END-->
 
 ---
