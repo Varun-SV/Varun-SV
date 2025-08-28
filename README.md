@@ -1,51 +1,34 @@
-# Welcome to My GitHub Profile! 👋
+# Hey, I'm Varun 👋
 
-Hi there, I'm **Varun S V**, a Software Engineer & Research Engineer passionate about blending software, hardware, and research.
-
----
-
-## 🧐 About Me
-
-- 🔭 Currently working on: **AI LLMs, Research-based Software Projects**
-- 🌱 Learning: **Advanced AI, Game Development, Hardware-Software Co-design**
-- 👯 Looking to collaborate on: **Research-driven AI & System-level projects**
-- 💬 Ask me about: **Python, C, C++, Java, AI/ML, System Design**
-- 📫 Reach me at: **varunsv077@gmail.com**
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I went from *"knew nothing"* ➝ *"building research tools & AI systems"* 🚀
+Welcome to my GitHub profile! 🚀
+I'm a **Software Engineer** who loves exploring the intersection of **software + research**.
 
 ---
 
-## 🚀 My Skills
+## 🌟 Daily Motivation
 
-- **Programming languages**: Python, C, C++, Java, Scala, HTML, JavaScript
-- **Frontend**: HTML, CSS, JS
-- **Backend**: Python (FastAPI, Flask), C++, Java
-- **Databases**: MongoDB, Cassandra, MySQL
-- **Tools**: MySQL Workbench, VSCode, Pycharm, Anaconda, Git, Streamlit, Docker
+<!--QUOTE_START-->
 
----
+Loading today's wisdom...
 
-## 📊 My GitHub Stats
-
-![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Varun-SV&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-SV&theme=radical&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Varun-SV&theme=radical)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Varun-SV&theme=radical)
+<!--QUOTE_END-->
 
 ---
 
-## 🌍 Visitor Counter & Profile Globe
+## 📂 Featured Projects
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Varun-SV&color=blue&style=flat-square&label=Visitors)
-
+* 🚀 [SociAuctor](#) — Auction platform supporting artists & hospitals
+* 🎮 Game dev environments & experiments
+* 🧪 Research-driven builds with AI + Hardware
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/varun-s-v-aa647a2bb)
-- 📧 varunsv077@gmail.com
+* [LinkedIn](https://www.linkedin.com/in/varun-s-v-aa647a2bb)
+* [Twitter](https://x.com/Varun78482652)
+* [Portfolio](https://varun-sv.github.io/)
+
+---
+
+⭐️ *Thanks for stopping by! Come back tomorrow for a fresh dose of motivation.*
