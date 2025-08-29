@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Love is the absence of judgment."**  — *Dalai Lama*
+**"When you realize you've made a mistake, take immediate steps to correct it."**  — *Dalai Lama*
 <!--QUOTE_END-->
 
 ---
