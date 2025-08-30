@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"When you realize you've made a mistake, take immediate steps to correct it."**  — *Dalai Lama*
+**"Passion is energy. Feel the power that comes from focusing on what excites you. "**  — *Oprah Winfrey*
 <!--QUOTE_END-->
 
 ---
