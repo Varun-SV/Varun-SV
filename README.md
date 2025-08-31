@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Passion is energy. Feel the power that comes from focusing on what excites you. "**  — *Oprah Winfrey*
+**"Those who can make you believe absurdities can make you commit atrocities. "**  — *Voltaire*
 <!--QUOTE_END-->
 
 ---
