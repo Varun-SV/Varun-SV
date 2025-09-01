@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Those who can make you believe absurdities can make you commit atrocities. "**  — *Voltaire*
+**"Fools talk, cowards are silent, wise men listen."**  — *Carlos Ruiz Zafon*
 <!--QUOTE_END-->
 
 ---
