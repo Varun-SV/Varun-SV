@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"The strength of a wall is neither greater nor less than the courage of the men who defend it. "**  — *Genghis Khan*
+**"People should pursue what they're passionate about. That will make them happier than pretty much anything else."**  — *Elon Musk*
 <!--QUOTE_END-->
 
 ---
