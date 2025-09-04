@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"People should pursue what they're passionate about. That will make them happier than pretty much anything else."**  — *Elon Musk*
+**"You do not read a book for the book's sake, but for your own."**  — *Earl Nightingale*
 <!--QUOTE_END-->
 
 ---
