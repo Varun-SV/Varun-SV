@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"You do not read a book for the book's sake, but for your own."**  — *Earl Nightingale*
+**"It is easy to discover what another has discovered before."**  — *Christopher Columbus*
 <!--QUOTE_END-->
 
 ---
