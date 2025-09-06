@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"It is easy to discover what another has discovered before."**  — *Christopher Columbus*
+**"You don't have to be great to start, but you have to start to be great. "**  — *Zig Ziglar*
 <!--QUOTE_END-->
 
 ---
