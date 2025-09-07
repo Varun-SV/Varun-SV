@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"You don't have to be great to start, but you have to start to be great. "**  — *Zig Ziglar*
+**"The more one judges, the less one loves."**  — *Honore de Balzac*
 <!--QUOTE_END-->
 
 ---
