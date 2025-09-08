@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"The more one judges, the less one loves."**  — *Honore de Balzac*
+**"Walk towards the sunshine, and the shadows will fall behind you."**  — *Mary Engelbreit*
 <!--QUOTE_END-->
 
 ---
