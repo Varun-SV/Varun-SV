@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Walk towards the sunshine, and the shadows will fall behind you."**  — *Mary Engelbreit*
+**"Associate with people who are likely to improve you. "**  — *Seneca*
 <!--QUOTE_END-->
 
 ---
