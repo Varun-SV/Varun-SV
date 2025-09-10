@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Associate with people who are likely to improve you. "**  — *Seneca*
+**"One mistake does not have to rule a person's entire life."**  — *Joyce Meyer*
 <!--QUOTE_END-->
 
 ---
