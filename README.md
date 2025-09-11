@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"One mistake does not have to rule a person's entire life."**  — *Joyce Meyer*
+**"Why change? Everyone has his own style. When you have found it, you should stick to it."**  — *Audrey Hepburn*
 <!--QUOTE_END-->
 
 ---
