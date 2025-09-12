@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Why change? Everyone has his own style. When you have found it, you should stick to it."**  — *Audrey Hepburn*
+**"Someday death will take us to another star."**  — *Vincent van Gogh*
 <!--QUOTE_END-->
 
 ---
