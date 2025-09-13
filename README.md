@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Someday death will take us to another star."**  — *Vincent van Gogh*
+**"Keep your eyes on the stars, but remember to keep your feet on the ground."**  — *Theodore Roosevelt*
 <!--QUOTE_END-->
 
 ---
