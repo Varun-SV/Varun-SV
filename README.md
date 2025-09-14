@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Keep your eyes on the stars, but remember to keep your feet on the ground."**  — *Theodore Roosevelt*
+**"Fortunate are those who take the first steps."**  — *Paulo Coelho*
 <!--QUOTE_END-->
 
 ---
