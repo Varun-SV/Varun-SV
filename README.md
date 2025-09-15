@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Fortunate are those who take the first steps."**  — *Paulo Coelho*
+**"Attitude is a little thing that makes a big difference."**  — *Winston Churchill*
 <!--QUOTE_END-->
 
 ---
