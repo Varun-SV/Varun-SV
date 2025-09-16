@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Attitude is a little thing that makes a big difference."**  — *Winston Churchill*
+**"Expect the best of yourself, and then do what is necessary to make it a reality."**  — *Ralph Marston*
 <!--QUOTE_END-->
 
 ---
