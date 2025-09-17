@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Expect the best of yourself, and then do what is necessary to make it a reality."**  — *Ralph Marston*
+**"Love is the expression of one's values."**  — *Ayn Rand*
 <!--QUOTE_END-->
 
 ---
