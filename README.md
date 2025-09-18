@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Love is the expression of one's values."**  — *Ayn Rand*
+**"None of us can change our yesterdays but all of us can change our tomorrows."**  — *Colin Powell*
 <!--QUOTE_END-->
 
 ---
