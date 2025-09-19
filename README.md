@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"None of us can change our yesterdays but all of us can change our tomorrows."**  — *Colin Powell*
+**"It's wise to tell the truth. It's even wiser to tell it kindly."**  — *Maxime Lagace*
 <!--QUOTE_END-->
 
 ---
