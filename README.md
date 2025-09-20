@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"It's wise to tell the truth. It's even wiser to tell it kindly."**  — *Maxime Lagace*
+**"Even if you're sure you can win, be careful that you can live with what you lose."**  — *Gary Keller*
 <!--QUOTE_END-->
 
 ---
