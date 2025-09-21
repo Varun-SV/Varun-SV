@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Even if you're sure you can win, be careful that you can live with what you lose."**  — *Gary Keller*
+**"The energy of the mind is the essence of life."**  — *Aristotle*
 <!--QUOTE_END-->
 
 ---
