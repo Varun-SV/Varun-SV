@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"The energy of the mind is the essence of life."**  — *Aristotle*
+**"There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever."**  — *Alexandre Dumas*
 <!--QUOTE_END-->
 
 ---
