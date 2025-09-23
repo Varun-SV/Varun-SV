@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever."**  — *Alexandre Dumas*
+**"There are no mistakes in life, only lessons."**  — *Robin Sharma*
 <!--QUOTE_END-->
 
 ---
