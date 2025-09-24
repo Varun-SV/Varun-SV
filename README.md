@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"There are no mistakes in life, only lessons."**  — *Robin Sharma*
+**"Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined."**  — *Deepak Chopra*
 <!--QUOTE_END-->
 
 ---
