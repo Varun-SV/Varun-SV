@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Receive without complaint, Work with fate."**  — *Ming-Dao Deng*
+**"A fall into a ditch makes you wiser."**  — *Chinese Proverb*
 <!--QUOTE_END-->
 
 ---
