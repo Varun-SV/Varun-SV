@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"A fall into a ditch makes you wiser."**  — *Chinese Proverb*
+**"You live by what you thrill to, and there's the end of it."**  — *D. H. Lawrence*
 <!--QUOTE_END-->
 
 ---
