@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"You live by what you thrill to, and there's the end of it."**  — *D. H. Lawrence*
+**"Don't wait for the right opportunity: create it."**  — *George Bernard Shaw*
 <!--QUOTE_END-->
 
 ---
