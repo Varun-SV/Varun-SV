@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Don't wait for the right opportunity: create it."**  — *George Bernard Shaw*
+**"Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence."**  — *Sydney Smith*
 <!--QUOTE_END-->
 
 ---
