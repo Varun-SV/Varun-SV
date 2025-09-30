@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence."**  — *Sydney Smith*
+**"You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing."**  — *Alan Watts*
 <!--QUOTE_END-->
 
 ---
