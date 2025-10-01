@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing."**  — *Alan Watts*
+**"Supreme excellence consists of breaking the enemy's resistance without fighting."**  — *Sun Tzu*
 <!--QUOTE_END-->
 
 ---
