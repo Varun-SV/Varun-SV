@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Supreme excellence consists of breaking the enemy's resistance without fighting."**  — *Sun Tzu*
+**"To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength."**  — *Criss Jami*
 <!--QUOTE_END-->
 
 ---
