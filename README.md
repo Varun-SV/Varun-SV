@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength."**  — *Criss Jami*
+**"Our attitude toward life determines life's attitude towards us."**  — *Earl Nightingale*
 <!--QUOTE_END-->
 
 ---
