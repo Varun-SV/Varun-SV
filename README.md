@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Our attitude toward life determines life's attitude towards us."**  — *Earl Nightingale*
+**"Change begets change. Nothing propagates so fast."**  — *Charles Dickens*
 <!--QUOTE_END-->
 
 ---
