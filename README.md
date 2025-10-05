@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Change begets change. Nothing propagates so fast."**  — *Charles Dickens*
+**"Live your life and forget your age."**  — *Norman Vincent Peale*
 <!--QUOTE_END-->
 
 ---
