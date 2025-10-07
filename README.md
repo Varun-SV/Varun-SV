@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Live your life and forget your age."**  — *Norman Vincent Peale*
+**"Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you."**  — *Jeffrey Gitomer*
 <!--QUOTE_END-->
 
 ---
