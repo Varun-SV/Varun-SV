@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you."**  — *Jeffrey Gitomer*
+**"The difference between treason and patriotism is only a matter of dates."**  — *Alexandre Dumas*
 <!--QUOTE_END-->
 
 ---
