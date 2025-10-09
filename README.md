@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"The difference between treason and patriotism is only a matter of dates."**  — *Alexandre Dumas*
+**"Inspiration exists, but it has to find you working."**  — *Pablo Picasso*
 <!--QUOTE_END-->
 
 ---
