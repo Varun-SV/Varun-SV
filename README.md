@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Inspiration exists, but it has to find you working."**  — *Pablo Picasso*
+**"Just as true humor is laughter at oneself, true humanity is knowledge of oneself."**  — *Alan Watts*
 <!--QUOTE_END-->
 
 ---
