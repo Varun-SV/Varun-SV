@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Just as true humor is laughter at oneself, true humanity is knowledge of oneself."**  — *Alan Watts*
+**"You can often change your circumstances by changing your attitude."**  — *Eleanor Roosevelt*
 <!--QUOTE_END-->
 
 ---
