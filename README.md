@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"You can often change your circumstances by changing your attitude."**  — *Eleanor Roosevelt*
+**"The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches."**  — *Ming-Dao Deng*
 <!--QUOTE_END-->
 
 ---
