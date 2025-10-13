@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches."**  — *Ming-Dao Deng*
+**"Originality is the fine art of remembering what you hear but forgetting where you heard it. "**  — *Laurence J. Peter*
 <!--QUOTE_END-->
 
 ---
