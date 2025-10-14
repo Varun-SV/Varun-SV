@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Originality is the fine art of remembering what you hear but forgetting where you heard it. "**  — *Laurence J. Peter*
+**"You cannot always control what goes on outside. But you can always control what goes on inside. "**  — *Wayne Dyer*
 <!--QUOTE_END-->
 
 ---
