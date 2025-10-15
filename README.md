@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"You cannot always control what goes on outside. But you can always control what goes on inside. "**  — *Wayne Dyer*
+**"You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win."**  — *Arnold Schwarzenegger*
 <!--QUOTE_END-->
 
 ---
