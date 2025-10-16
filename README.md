@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win."**  — *Arnold Schwarzenegger*
+**"Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!"**  — *Og Mandino*
 <!--QUOTE_END-->
 
 ---
