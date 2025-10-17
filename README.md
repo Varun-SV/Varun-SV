@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!"**  — *Og Mandino*
+**"All happiness depends on courage and work."**  — *Honore de Balzac*
 <!--QUOTE_END-->
 
 ---
