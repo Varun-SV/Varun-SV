@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"All happiness depends on courage and work."**  — *Honore de Balzac*
+**"Fool me once, shame on you; fool me twice, shame on me. "**  — *Chinese Proverb*
 <!--QUOTE_END-->
 
 ---
