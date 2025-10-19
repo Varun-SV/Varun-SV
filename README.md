@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Fool me once, shame on you; fool me twice, shame on me. "**  — *Chinese Proverb*
+**"There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world."**  — *Henry Ward Beecher*
 <!--QUOTE_END-->
 
 ---
