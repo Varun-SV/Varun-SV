@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world."**  — *Henry Ward Beecher*
+**"Through selfless service, you will always be fruitful and find the fulfillment of your desires."**  — *Bhagavad Gita*
 <!--QUOTE_END-->
 
 ---
