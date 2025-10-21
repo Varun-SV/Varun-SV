@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Through selfless service, you will always be fruitful and find the fulfillment of your desires."**  — *Bhagavad Gita*
+**"The secret of change is to focus all your energy not on fighting the old, but on building the new."**  — *Dan Millman*
 <!--QUOTE_END-->
 
 ---
