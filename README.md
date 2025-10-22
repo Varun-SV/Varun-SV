@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"The secret of change is to focus all your energy not on fighting the old, but on building the new."**  — *Dan Millman*
+**"Whatever satisfies the soul is truth."**  — *Walt Whitman*
 <!--QUOTE_END-->
 
 ---
