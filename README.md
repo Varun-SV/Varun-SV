@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Whatever satisfies the soul is truth."**  — *Walt Whitman*
+**"The greatest weariness comes from work not done."**  — *Eric Hoffer*
 <!--QUOTE_END-->
 
 ---
