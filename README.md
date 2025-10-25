@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"You do not read a book for the book's sake, but for your own."**  — *Earl Nightingale*
+**"Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. "**  — *Jack London*
 <!--QUOTE_END-->
 
 ---
