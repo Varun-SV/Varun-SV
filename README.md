@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world."**  — *Henry Ward Beecher*
+**"When you have to make a choice and don't make it, that is in itself a choice."**  — *William James*
 <!--QUOTE_END-->
 
 ---
