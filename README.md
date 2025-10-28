@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"When you have to make a choice and don't make it, that is in itself a choice."**  — *William James*
+**"Simple words, repeated daily, can change your life."**  — *Maxime Lagace*
 <!--QUOTE_END-->
 
 ---
