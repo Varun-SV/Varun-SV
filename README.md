@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Simple words, repeated daily, can change your life."**  — *Maxime Lagace*
+**"Go and do the things you can't. That is how you get to do them."**  — *Pablo Picasso*
 <!--QUOTE_END-->
 
 ---
