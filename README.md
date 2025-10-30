@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Go and do the things you can't. That is how you get to do them."**  — *Pablo Picasso*
+**"Little by little, one travels far."**  — *J.R.R. Tolkien*
 <!--QUOTE_END-->
 
 ---
