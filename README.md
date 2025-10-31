@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Little by little, one travels far."**  — *J.R.R. Tolkien*
+**"Work as though you would live forever, and live as though you would die today. Go another mile."**  — *Og Mandino*
 <!--QUOTE_END-->
 
 ---
