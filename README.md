@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Work as though you would live forever, and live as though you would die today. Go another mile."**  — *Og Mandino*
+**"Ideas do not reach perfection in a day, no matter how much study is put upon them."**  — *Alexander Graham Bell*
 <!--QUOTE_END-->
 
 ---
