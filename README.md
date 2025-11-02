@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Ideas do not reach perfection in a day, no matter how much study is put upon them."**  — *Alexander Graham Bell*
+**"Those who look for the bad in people will surely find it."**  — *Abraham Lincoln*
 <!--QUOTE_END-->
 
 ---
