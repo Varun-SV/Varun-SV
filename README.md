@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Those who look for the bad in people will surely find it."**  — *Abraham Lincoln*
+**"Death walks faster than the wind and never returns what he has taken."**  — *Hans Christian Andersen*
 <!--QUOTE_END-->
 
 ---
