@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"To raise your consciousness, surround yourself with people of higher consciousness."**  — *Celestine Chua*
+**"Sometimes it is harder to deprive oneself of a pain than of a pleasure."**  — *F. Scott Fitzgerald*
 <!--QUOTE_END-->
 
 ---
