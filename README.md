@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Sometimes it is harder to deprive oneself of a pain than of a pleasure."**  — *F. Scott Fitzgerald*
+**"Learn from the rejection and turn it into an opportunity!"**  — *Mary Engelbreit*
 <!--QUOTE_END-->
 
 ---
