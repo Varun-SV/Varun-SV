@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Don't spend major time on minor things."**  — *Jim Rohn*
+**"The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for."**  — *Bob Marley*
 <!--QUOTE_END-->
 
 ---
