@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for."**  — *Bob Marley*
+**"You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously."**  — *Steve Maraboli*
 <!--QUOTE_END-->
 
 ---
