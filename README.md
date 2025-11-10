@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously."**  — *Steve Maraboli*
+**"The meaning of life is just to be alive. It is so plain and so obvious and so simple."**  — *Alan Watts*
 <!--QUOTE_END-->
 
 ---
