@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"The meaning of life is just to be alive. It is so plain and so obvious and so simple."**  — *Alan Watts*
+**"Receive without pride, let go without attachment."**  — *Marcus Aurelius*
 <!--QUOTE_END-->
 
 ---
