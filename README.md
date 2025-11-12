@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Receive without pride, let go without attachment."**  — *Marcus Aurelius*
+**"Beauty is not in the face; beauty is a light in the heart."**  — *Kahlil Gibran*
 <!--QUOTE_END-->
 
 ---
