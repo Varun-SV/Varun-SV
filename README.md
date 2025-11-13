@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Beauty is not in the face; beauty is a light in the heart."**  — *Kahlil Gibran*
+**"Not everything that weighs you down is yours to carry."**  — *Unknown*
 <!--QUOTE_END-->
 
 ---
