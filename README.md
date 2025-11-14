@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Not everything that weighs you down is yours to carry."**  — *Unknown*
+**"I no doubt deserved my enemies, but I don't believe I deserved my friends."**  — *Walt Whitman*
 <!--QUOTE_END-->
 
 ---
