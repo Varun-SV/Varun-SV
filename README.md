@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"I no doubt deserved my enemies, but I don't believe I deserved my friends."**  — *Walt Whitman*
+**"Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself."**  — *Samuel Butler*
 <!--QUOTE_END-->
 
 ---
