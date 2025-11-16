@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself."**  — *Samuel Butler*
+**"Your home is where your thoughts find peace."**  — *Zen Proverb*
 <!--QUOTE_END-->
 
 ---
