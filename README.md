@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Your home is where your thoughts find peace."**  — *Zen Proverb*
+**"There is no path to Love. Love is the path."**  — *Dan Millman*
 <!--QUOTE_END-->
 
 ---
