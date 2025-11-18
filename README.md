@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"There is no path to Love. Love is the path."**  — *Dan Millman*
+**"Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth."**  — *Henry David Thoreau*
 <!--QUOTE_END-->
 
 ---
