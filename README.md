@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth."**  — *Henry David Thoreau*
+**"Today I begin a new life. I will greet this day with love in my heart."**  — *Og Mandino*
 <!--QUOTE_END-->
 
 ---
