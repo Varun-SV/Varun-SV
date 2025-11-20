@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Today I begin a new life. I will greet this day with love in my heart."**  — *Og Mandino*
+**"Just as true humor is laughter at oneself, true humanity is knowledge of oneself."**  — *Alan Watts*
 <!--QUOTE_END-->
 
 ---
