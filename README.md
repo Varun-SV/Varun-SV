@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Just as true humor is laughter at oneself, true humanity is knowledge of oneself."**  — *Alan Watts*
+**"Even though you are on the right track - you will get run over if you just sit there."**  — *Will Rogers*
 <!--QUOTE_END-->
 
 ---
