@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Even though you are on the right track - you will get run over if you just sit there."**  — *Will Rogers*
+**"I can think of nothing less pleasurable than a life devoted to pleasure."**  — *John D. Rockefeller*
 <!--QUOTE_END-->
 
 ---
