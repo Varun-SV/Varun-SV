@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"I can think of nothing less pleasurable than a life devoted to pleasure."**  — *John D. Rockefeller*
+**"Fear, uncertainty, and discomfort are your compasses toward growth."**  — *Celestine Chua*
 <!--QUOTE_END-->
 
 ---
