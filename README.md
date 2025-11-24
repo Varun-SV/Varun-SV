@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Fear, uncertainty, and discomfort are your compasses toward growth."**  — *Celestine Chua*
+**"The only lost cause is one we give up on before we enter the struggle."**  — *Vaclav Havel*
 <!--QUOTE_END-->
 
 ---
