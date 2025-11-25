@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"The only lost cause is one we give up on before we enter the struggle."**  — *Vaclav Havel*
+**"Question everything. Learn something. Answer nothing."**  — *Euripides*
 <!--QUOTE_END-->
 
 ---
