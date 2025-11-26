@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Question everything. Learn something. Answer nothing."**  — *Euripides*
+**"A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board."**  — *D. H. Lawrence*
 <!--QUOTE_END-->
 
 ---
