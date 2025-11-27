@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board."**  — *D. H. Lawrence*
+**"You are not what you think you are, You are not what others think you are, You are what you think others think you are."**  — *Unknown*
 <!--QUOTE_END-->
 
 ---
