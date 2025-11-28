@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"You are not what you think you are, You are not what others think you are, You are what you think others think you are."**  — *Unknown*
+**"Sometimes it is more important to discover what one cannot do, than what one can do."**  — *Lin Yutang*
 <!--QUOTE_END-->
 
 ---
