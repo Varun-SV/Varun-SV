@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Sometimes it is more important to discover what one cannot do, than what one can do."**  — *Lin Yutang*
+**"Once you learn to quit, it becomes a habit."**  — *Vince Lombardi*
 <!--QUOTE_END-->
 
 ---
