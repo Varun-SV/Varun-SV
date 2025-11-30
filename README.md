@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Once you learn to quit, it becomes a habit."**  — *Vince Lombardi*
+**"A mistake is only an error, it becomes a mistake when you fail to correct it."**  — *John Lennon*
 <!--QUOTE_END-->
 
 ---
