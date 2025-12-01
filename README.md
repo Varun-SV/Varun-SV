@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"A mistake is only an error, it becomes a mistake when you fail to correct it."**  — *John Lennon*
+**"Living life in style also means living a life of balance."**  — *Jim Rohn*
 <!--QUOTE_END-->
 
 ---
