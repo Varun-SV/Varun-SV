@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Living life in style also means living a life of balance."**  — *Jim Rohn*
+**"If it is not right, do not do it, if it is not true, do not say it."**  — *Marcus Aurelius*
 <!--QUOTE_END-->
 
 ---
