@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"If it is not right, do not do it, if it is not true, do not say it."**  — *Marcus Aurelius*
+**"If you want peace, you won't get it with violence."**  — *John Lennon*
 <!--QUOTE_END-->
 
 ---
