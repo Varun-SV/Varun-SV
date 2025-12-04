@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"If you want peace, you won't get it with violence."**  — *John Lennon*
+**"It doesn't matter what you do, only how well you do it."**  — *Dan Millman*
 <!--QUOTE_END-->
 
 ---
