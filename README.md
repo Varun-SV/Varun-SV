@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"It doesn't matter what you do, only how well you do it."**  — *Dan Millman*
+**"We must learn to live together as brothers or perish together as fools."**  — *Martin Luther King, Jr.*
 <!--QUOTE_END-->
 
 ---
