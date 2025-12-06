@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"We must learn to live together as brothers or perish together as fools."**  — *Martin Luther King, Jr.*
+**"In life you need either inspiration or desperation."**  — *Tony Robbins*
 <!--QUOTE_END-->
 
 ---
