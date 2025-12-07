@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"In life you need either inspiration or desperation."**  — *Tony Robbins*
+**"The longer we dwell on our misfortunes, the greater is their power to harm us."**  — *Voltaire*
 <!--QUOTE_END-->
 
 ---
