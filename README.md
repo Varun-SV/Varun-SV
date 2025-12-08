@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"The longer we dwell on our misfortunes, the greater is their power to harm us."**  — *Voltaire*
+**"When angry count to ten before you speak. If very angry, count to one hundred."**  — *Thomas Jefferson*
 <!--QUOTE_END-->
 
 ---
