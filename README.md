@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"When angry count to ten before you speak. If very angry, count to one hundred."**  — *Thomas Jefferson*
+**"Honor is the foundation of courage."**  — *Amelia Earhart*
 <!--QUOTE_END-->
 
 ---
