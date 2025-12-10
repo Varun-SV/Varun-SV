@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Honor is the foundation of courage."**  — *Amelia Earhart*
+**"If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes."**  — *Andrew Carnegie*
 <!--QUOTE_END-->
 
 ---
