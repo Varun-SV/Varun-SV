@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Who you are is defined by what you're willing to struggle for."**  — *Mark Manson*
+**"Wake up and smile! Wake up and be grateful!"**  — *Steve Harvey*
 <!--QUOTE_END-->
 
 ---
