@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Wake up and smile! Wake up and be grateful!"**  — *Steve Harvey*
+**"Loss is nothing else but change and change is nature's delight."**  — *Marcus Aurelius*
 <!--QUOTE_END-->
 
 ---
