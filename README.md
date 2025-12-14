@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Loss is nothing else but change and change is nature's delight."**  — *Marcus Aurelius*
+**"If you are patient in one moment of anger, you will escape a hundred days of sorrow. "**  — *Chinese Proverb*
 <!--QUOTE_END-->
 
 ---
