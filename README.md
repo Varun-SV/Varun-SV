@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"If you are patient in one moment of anger, you will escape a hundred days of sorrow. "**  — *Chinese Proverb*
+**"Everyday is a second chance."**  — *Unknown*
 <!--QUOTE_END-->
 
 ---
