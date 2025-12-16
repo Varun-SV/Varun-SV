@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Everyday is a second chance."**  — *Unknown*
+**"Where you are right now doesn't have to determine where you'll end up."**  — *Barack Obama*
 <!--QUOTE_END-->
 
 ---
