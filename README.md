@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"If you look for perfection, you'll never be content."**  — *Leo Tolstoy*
+**"The man who asks a question is a fool for a minute, the man who does not ask is a fool for life."**  — *Confucius*
 <!--QUOTE_END-->
 
 ---
