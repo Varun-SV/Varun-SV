@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"The man who asks a question is a fool for a minute, the man who does not ask is a fool for life."**  — *Confucius*
+**"The wisest men follow their own direction."**  — *Euripides*
 <!--QUOTE_END-->
 
 ---
