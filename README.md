@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"The wisest men follow their own direction."**  — *Euripides*
+**"There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world."**  — *Henry Ward Beecher*
 <!--QUOTE_END-->
 
 ---
