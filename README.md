@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world."**  — *Henry Ward Beecher*
+**"Never allow someone to be your priority while allowing yourself to be their option."**  — *Mark Twain*
 <!--QUOTE_END-->
 
 ---
