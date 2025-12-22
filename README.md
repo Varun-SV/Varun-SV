@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Never allow someone to be your priority while allowing yourself to be their option."**  — *Mark Twain*
+**"To bear trials with a calm mind robs misfortune of its strength and burden."**  — *Seneca*
 <!--QUOTE_END-->
 
 ---
