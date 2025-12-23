@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"To bear trials with a calm mind robs misfortune of its strength and burden."**  — *Seneca*
+**"All human wisdom is contained in these two words - Wait and Hope"**  — *Alexandre Dumas*
 <!--QUOTE_END-->
 
 ---
