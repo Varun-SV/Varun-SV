@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"All human wisdom is contained in these two words - Wait and Hope"**  — *Alexandre Dumas*
+**"Every man desires to live long, but no man wishes to be old."**  — *Jonathan Swift*
 <!--QUOTE_END-->
 
 ---
