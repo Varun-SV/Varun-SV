@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Every man desires to live long, but no man wishes to be old."**  — *Jonathan Swift*
+**"Treat every moment as your last. It is not preparation for something else."**  — *Shunryu Suzuki*
 <!--QUOTE_END-->
 
 ---
