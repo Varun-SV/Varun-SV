@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Treat every moment as your last. It is not preparation for something else."**  — *Shunryu Suzuki*
+**"Life is too short to waste your time on people who don't respect, appreciate, and value you."**  — *Roy T. Bennett*
 <!--QUOTE_END-->
 
 ---
