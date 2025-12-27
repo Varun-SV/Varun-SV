@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Life is too short to waste your time on people who don't respect, appreciate, and value you."**  — *Roy T. Bennett*
+**"Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with."**  — *Woody Allen*
 <!--QUOTE_END-->
 
 ---
