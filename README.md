@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with."**  — *Woody Allen*
+**"Success is a consequence and must not be a goal."**  — *Gustave Flaubert*
 <!--QUOTE_END-->
 
 ---
