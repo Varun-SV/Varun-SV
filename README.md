@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Success is a consequence and must not be a goal."**  — *Gustave Flaubert*
+**"Supreme excellence consists of breaking the enemy's resistance without fighting."**  — *Sun Tzu*
 <!--QUOTE_END-->
 
 ---
