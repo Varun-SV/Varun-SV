@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Supreme excellence consists of breaking the enemy's resistance without fighting."**  — *Sun Tzu*
+**"Never spend your money before you have earned it."**  — *Thomas Jefferson*
 <!--QUOTE_END-->
 
 ---
