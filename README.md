@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Never spend your money before you have earned it."**  — *Thomas Jefferson*
+**"Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment."**  — *Celestine Chua*
 <!--QUOTE_END-->
 
 ---
