@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Don't criticize what you can't understand. "**  — *Bob Dylan*
+**"If you spend too much time thinking about a thing, you'll never get it done. "**  — *Bruce Lee*
 <!--QUOTE_END-->
 
 ---
