@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"If you spend too much time thinking about a thing, you'll never get it done. "**  — *Bruce Lee*
+**"You are today where your thoughts have brought you."**  — *James Allen*
 <!--QUOTE_END-->
 
 ---
