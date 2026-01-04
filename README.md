@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"You are today where your thoughts have brought you."**  — *James Allen*
+**"Rest and be kind, you don't have to prove anything."**  — *Jack Kerouac*
 <!--QUOTE_END-->
 
 ---
