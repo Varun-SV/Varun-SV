@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Rest and be kind, you don't have to prove anything."**  — *Jack Kerouac*
+**"If you don't program yourself, life will program you."**  — *Les Brown*
 <!--QUOTE_END-->
 
 ---
