@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"If you don't program yourself, life will program you."**  — *Les Brown*
+**"Treat everyone with politeness and kindness, not because they are nice, but because you are."**  — *Roy T. Bennett*
 <!--QUOTE_END-->
 
 ---
