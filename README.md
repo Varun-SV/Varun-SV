@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Treat everyone with politeness and kindness, not because they are nice, but because you are."**  — *Roy T. Bennett*
+**"There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will."**  — *Epictetus*
 <!--QUOTE_END-->
 
 ---
