@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will."**  — *Epictetus*
+**"The trouble with the rat race is that even if you win, you're still a rat."**  — *Lily Tomlin*
 <!--QUOTE_END-->
 
 ---
