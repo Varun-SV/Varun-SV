@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Don't let what you cannot do interfere with what you can do."**  — *John Wooden*
+**"The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less."**  — *Dan Millman*
 <!--QUOTE_END-->
 
 ---
