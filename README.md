@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less."**  — *Dan Millman*
+**"All that we see or seem is but a dream within a dream."**  — *Edgar Allan Poe*
 <!--QUOTE_END-->
 
 ---
