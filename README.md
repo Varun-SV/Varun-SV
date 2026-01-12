@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"All that we see or seem is but a dream within a dream."**  — *Edgar Allan Poe*
+**"Don't change your mind just because people are offended; change your mind if you're wrong."**  — *Criss Jami*
 <!--QUOTE_END-->
 
 ---
