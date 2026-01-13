@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Don't change your mind just because people are offended; change your mind if you're wrong."**  — *Criss Jami*
+**"Any fool can turn a blind eye but who knows what the ostrich sees in the sand."**  — *Samuel Beckett*
 <!--QUOTE_END-->
 
 ---
