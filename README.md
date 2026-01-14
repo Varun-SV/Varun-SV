@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Any fool can turn a blind eye but who knows what the ostrich sees in the sand."**  — *Samuel Beckett*
+**"Don't be afraid to see what you see."**  — *Ronald Reagan*
 <!--QUOTE_END-->
 
 ---
