@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Your home is where your thoughts find peace."**  — *Zen Proverb*
+**"To be calm is the highest achievement of the self."**  — *Zen Proverb*
 <!--QUOTE_END-->
 
 ---
