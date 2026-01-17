@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"To be calm is the highest achievement of the self."**  — *Zen Proverb*
+**"The only time you run out of chances is when you stop taking them."**  — *Unknown*
 <!--QUOTE_END-->
 
 ---
