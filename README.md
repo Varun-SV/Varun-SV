@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"The only time you run out of chances is when you stop taking them."**  — *Unknown*
+**"It's not the love you make. It's the love you give. "**  — *Nikola Tesla*
 <!--QUOTE_END-->
 
 ---
