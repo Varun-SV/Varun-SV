@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"It's not the love you make. It's the love you give. "**  — *Nikola Tesla*
+**"It takes half your life before you discover life is a do-it-yourself project."**  — *Napoleon Hill*
 <!--QUOTE_END-->
 
 ---
