@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"It takes half your life before you discover life is a do-it-yourself project."**  — *Napoleon Hill*
+**"It's not about what it is, it's about what it can become."**  — *Dr. Seuss*
 <!--QUOTE_END-->
 
 ---
