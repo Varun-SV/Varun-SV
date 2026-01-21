@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"It's not about what it is, it's about what it can become."**  — *Dr. Seuss*
+**"Identification with our mind causes thought to become compulsive."**  — *Eckhart Tolle*
 <!--QUOTE_END-->
 
 ---
