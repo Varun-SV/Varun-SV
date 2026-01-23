@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"A man that flies from his fear may find that he has only taken a short cut to meet it."**  — *J.R.R. Tolkien*
+**"Death is not an ending. It is a transformation."**  — *Ming-Dao Deng*
 <!--QUOTE_END-->
 
 ---
