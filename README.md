@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Death is not an ending. It is a transformation."**  — *Ming-Dao Deng*
+**"A leader leads by example, not by force."**  — *Sun Tzu*
 <!--QUOTE_END-->
 
 ---
