@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"A leader leads by example, not by force."**  — *Sun Tzu*
+**"There is only the one reality, neither to be realized nor attained."**  — *Huang Po*
 <!--QUOTE_END-->
 
 ---
