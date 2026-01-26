@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"There is only the one reality, neither to be realized nor attained."**  — *Huang Po*
+**"Happiness depends on your mindset and attitude."**  — *Roy T. Bennett*
 <!--QUOTE_END-->
 
 ---
