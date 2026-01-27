@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Happiness depends on your mindset and attitude."**  — *Roy T. Bennett*
+**"Power is not what we do but what we do not - hasty and unwise actions that we repeat every day and which ultimately bring us into trouble."**  — *Robert Greene*
 <!--QUOTE_END-->
 
 ---
