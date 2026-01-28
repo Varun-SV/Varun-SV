@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Power is not what we do but what we do not - hasty and unwise actions that we repeat every day and which ultimately bring us into trouble."**  — *Robert Greene*
+**"It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love."**  — *John Lennon*
 <!--QUOTE_END-->
 
 ---
