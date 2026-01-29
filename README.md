@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love."**  — *John Lennon*
+**"Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome."**  — *Dan Millman*
 <!--QUOTE_END-->
 
 ---
