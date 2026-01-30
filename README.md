@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome."**  — *Dan Millman*
+**"At first dreams seem impossible, then improbable, then inevitable."**  — *Christopher Reeve*
 <!--QUOTE_END-->
 
 ---
