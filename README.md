@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"At first dreams seem impossible, then improbable, then inevitable."**  — *Christopher Reeve*
+**"They who have conquered doubt and fear have conquered failure."**  — *James Allen*
 <!--QUOTE_END-->
 
 ---
