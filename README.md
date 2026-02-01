@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"They who have conquered doubt and fear have conquered failure."**  — *James Allen*
+**"There is no self-discovery without pain and loss."**  — *Anita Krizzan*
 <!--QUOTE_END-->
 
 ---
