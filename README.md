@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"There is no self-discovery without pain and loss."**  — *Anita Krizzan*
+**"Genius is one percent inspiration and ninety-nine percent perspiration."**  — *Thomas Edison*
 <!--QUOTE_END-->
 
 ---
