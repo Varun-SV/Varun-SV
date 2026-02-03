@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Genius is one percent inspiration and ninety-nine percent perspiration."**  — *Thomas Edison*
+**"Don't just sit there. Do something. The answers will follow."**  — *Mark Manson*
 <!--QUOTE_END-->
 
 ---
