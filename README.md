@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Don't just sit there. Do something. The answers will follow."**  — *Mark Manson*
+**"Throw me to the wolves and I will return leading the pack. "**  — *Seneca*
 <!--QUOTE_END-->
 
 ---
