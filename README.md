@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Throw me to the wolves and I will return leading the pack. "**  — *Seneca*
+**"It doesn't matter where you are coming from. All that matters is where you are going. "**  — *Brian Tracy*
 <!--QUOTE_END-->
 
 ---
