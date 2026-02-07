@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Don't think money does everything or you are going to end up doing everything for money."**  — *Voltaire*
+**"You Create Your Own Present By What You Give Your Attention To Today."**  — *Spencer Johnson*
 <!--QUOTE_END-->
 
 ---
