@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"You Create Your Own Present By What You Give Your Attention To Today."**  — *Spencer Johnson*
+**"Learning never exhausts the mind. "**  — *Leonardo da Vinci*
 <!--QUOTE_END-->
 
 ---
