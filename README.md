@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Learning never exhausts the mind. "**  — *Leonardo da Vinci*
+**"Avoiding failure is to avoid progress."**  — *Unknown*
 <!--QUOTE_END-->
 
 ---
