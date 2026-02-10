@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Avoiding failure is to avoid progress."**  — *Unknown*
+**"What do we live for, if it is not to make life less difficult for each other?"**  — *George Eliot*
 <!--QUOTE_END-->
 
 ---
