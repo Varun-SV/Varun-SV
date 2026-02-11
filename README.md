@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"What do we live for, if it is not to make life less difficult for each other?"**  — *George Eliot*
+**"Nothing you do is going to matter that much in the long run. Don't take yourself so seriously."**  — *Naval Ravikant*
 <!--QUOTE_END-->
 
 ---
