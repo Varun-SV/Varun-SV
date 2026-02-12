@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Nothing you do is going to matter that much in the long run. Don't take yourself so seriously."**  — *Naval Ravikant*
+**"The greatest discovery of all time is that a person can change their future by merely changing their attitude."**  — *Oprah Winfrey*
 <!--QUOTE_END-->
 
 ---
