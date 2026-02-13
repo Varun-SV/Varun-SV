@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"The greatest discovery of all time is that a person can change their future by merely changing their attitude."**  — *Oprah Winfrey*
+**"Just living is not enough... one must have sunshine, freedom, and a little flower. "**  — *Hans Christian Andersen*
 <!--QUOTE_END-->
 
 ---
