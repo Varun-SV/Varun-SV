@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Nourish the mind like you would your body. The mind cannot survive on junk food."**  — *Brian Tracy*
+**"The sun shines upon good and bad alike."**  — *Hans Christian Andersen*
 <!--QUOTE_END-->
 
 ---
