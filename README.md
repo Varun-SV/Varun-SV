@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Boldness makes even the smallest animal dangerous."**  — *Robert Greene*
+**"Doing the best at this moment puts you in the best place for the next moment."**  — *Oprah Winfrey*
 <!--QUOTE_END-->
 
 ---
