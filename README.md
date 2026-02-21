@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Doing the best at this moment puts you in the best place for the next moment."**  — *Oprah Winfrey*
+**"Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time."**  — *Thomas Jefferson*
 <!--QUOTE_END-->
 
 ---
