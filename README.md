@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace."**  — *Ming-Dao Deng*
+**"One small positive thought can change your whole day."**  — *Zig Ziglar*
 <!--QUOTE_END-->
 
 ---
