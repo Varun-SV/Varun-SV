@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"One small positive thought can change your whole day."**  — *Zig Ziglar*
+**"A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists."**  — *Charles Dickens*
 <!--QUOTE_END-->
 
 ---
