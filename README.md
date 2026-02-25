@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists."**  — *Charles Dickens*
+**"People do not decide their futures, they decide their habits and their habits decide their futures."**  — *Gary Keller*
 <!--QUOTE_END-->
 
 ---
