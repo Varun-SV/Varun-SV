@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"People do not decide their futures, they decide their habits and their habits decide their futures."**  — *Gary Keller*
+**"The greatest test of courage on earth is to bear defeat without losing heart."**  — *Robert Greene*
 <!--QUOTE_END-->
 
 ---
