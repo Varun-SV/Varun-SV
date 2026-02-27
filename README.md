@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"The greatest test of courage on earth is to bear defeat without losing heart."**  — *Robert Greene*
+**"All has not been said and never will be."**  — *Samuel Beckett*
 <!--QUOTE_END-->
 
 ---
