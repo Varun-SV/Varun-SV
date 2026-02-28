@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"All has not been said and never will be."**  — *Samuel Beckett*
+**"Live your life as an exclamation rather than an explanation."**  — *Isaac Newton*
 <!--QUOTE_END-->
 
 ---
