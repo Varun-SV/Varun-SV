@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right."**  — *Albus Dumbledore*
+**"Where your talents and the needs of the world cross, there lies your vocation."**  — *Aristotle*
 <!--QUOTE_END-->
 
 ---
