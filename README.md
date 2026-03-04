@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Where your talents and the needs of the world cross, there lies your vocation."**  — *Aristotle*
+**"Believe in your infinite potential. Your only limitations are those you set upon yourself."**  — *Roy T. Bennett*
 <!--QUOTE_END-->
 
 ---
