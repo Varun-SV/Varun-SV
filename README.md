@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Believe in your infinite potential. Your only limitations are those you set upon yourself."**  — *Roy T. Bennett*
+**"Never put off to tomorrow what you can do to-day."**  — *Thomas Jefferson*
 <!--QUOTE_END-->
 
 ---
