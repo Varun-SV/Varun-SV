@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Never put off to tomorrow what you can do to-day."**  — *Thomas Jefferson*
+**"Common sense is not so common. "**  — *Voltaire*
 <!--QUOTE_END-->
 
 ---
