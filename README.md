@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Common sense is not so common. "**  — *Voltaire*
+**"Never waste a minute of your precious life thinking about people you don't like."**  — *Celestine Chua*
 <!--QUOTE_END-->
 
 ---
