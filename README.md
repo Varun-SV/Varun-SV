@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Never waste a minute of your precious life thinking about people you don't like."**  — *Celestine Chua*
+**"The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become."**  — *Heraclitus*
 <!--QUOTE_END-->
 
 ---
