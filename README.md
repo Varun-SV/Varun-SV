@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become."**  — *Heraclitus*
+**"Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything."**  — *Shunryu Suzuki*
 <!--QUOTE_END-->
 
 ---
