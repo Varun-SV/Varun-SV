@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything."**  — *Shunryu Suzuki*
+**"Loyalty and friendship are the most precious possessions a man can have."**  — *Herbert Hoover*
 <!--QUOTE_END-->
 
 ---
