@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Loyalty and friendship are the most precious possessions a man can have."**  — *Herbert Hoover*
+**"Don't spend major time on minor things."**  — *Jim Rohn*
 <!--QUOTE_END-->
 
 ---
