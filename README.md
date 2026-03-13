@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Don't spend major time on minor things."**  — *Jim Rohn*
+**"If you pray for rain, be prepared to deal with some mud."**  — *Mary Engelbreit*
 <!--QUOTE_END-->
 
 ---
