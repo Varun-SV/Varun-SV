@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"If you pray for rain, be prepared to deal with some mud."**  — *Mary Engelbreit*
+**"Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. "**  — *Jack London*
 <!--QUOTE_END-->
 
 ---
