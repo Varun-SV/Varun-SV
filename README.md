@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. "**  — *Jack London*
+**"The more something threatens your identity, the more you will avoid it."**  — *Mark Manson*
 <!--QUOTE_END-->
 
 ---
