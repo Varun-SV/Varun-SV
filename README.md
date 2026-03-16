@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"The more something threatens your identity, the more you will avoid it."**  — *Mark Manson*
+**"Waste not fresh tears over old griefs."**  — *Euripides*
 <!--QUOTE_END-->
 
 ---
