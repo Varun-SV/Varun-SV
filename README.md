@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Waste not fresh tears over old griefs."**  — *Euripides*
+**"It's not what we do once in a while that shapes our lives, but what we do consistently."**  — *Tony Robbins*
 <!--QUOTE_END-->
 
 ---
