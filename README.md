@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"It's not what we do once in a while that shapes our lives, but what we do consistently."**  — *Tony Robbins*
+**"The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is."**  — *Eckhart Tolle*
 <!--QUOTE_END-->
 
 ---
