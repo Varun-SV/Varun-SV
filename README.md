@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is."**  — *Eckhart Tolle*
+**"Awaken. Take heed, do not squander your life."**  — *Dogen*
 <!--QUOTE_END-->
 
 ---
