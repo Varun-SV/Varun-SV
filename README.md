@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Awaken. Take heed, do not squander your life."**  — *Dogen*
+**"We have a choice everyday regarding the attitude we will embrace for that day."**  — *Charles Swindoll*
 <!--QUOTE_END-->
 
 ---
