@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"We have a choice everyday regarding the attitude we will embrace for that day."**  — *Charles Swindoll*
+**"You have within you right now, everything you need to deal with whatever the world can throw at you."**  — *Brian Tracy*
 <!--QUOTE_END-->
 
 ---
