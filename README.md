@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"You have within you right now, everything you need to deal with whatever the world can throw at you."**  — *Brian Tracy*
+**"When people are free to do as they please, they usually imitate each other."**  — *Eric Hoffer*
 <!--QUOTE_END-->
 
 ---
