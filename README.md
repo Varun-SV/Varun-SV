@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"When people are free to do as they please, they usually imitate each other."**  — *Eric Hoffer*
+**"Life becomes easier and more beautiful when we can see the good in other people."**  — *Roy T. Bennett*
 <!--QUOTE_END-->
 
 ---
