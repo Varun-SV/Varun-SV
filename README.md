@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Life becomes easier and more beautiful when we can see the good in other people."**  — *Roy T. Bennett*
+**"Be the change that you want to see in the world."**  — *Mahatma Gandhi*
 <!--QUOTE_END-->
 
 ---
