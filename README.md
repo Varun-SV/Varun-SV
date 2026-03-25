@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Be the change that you want to see in the world."**  — *Mahatma Gandhi*
+**"You already have every characteristic necessary for success if you recognize, claim, develop and use them."**  — *Zig Ziglar*
 <!--QUOTE_END-->
 
 ---
