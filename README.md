@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"You already have every characteristic necessary for success if you recognize, claim, develop and use them."**  — *Zig Ziglar*
+**"Man is affected not by events but by the view he takes of them. "**  — *Seneca*
 <!--QUOTE_END-->
 
 ---
