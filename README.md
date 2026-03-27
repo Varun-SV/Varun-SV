@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Man is affected not by events but by the view he takes of them. "**  — *Seneca*
+**"The secret of life is to fall seven times and to get up eight times."**  — *Paulo Coelho*
 <!--QUOTE_END-->
 
 ---
