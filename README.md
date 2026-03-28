@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"The secret of life is to fall seven times and to get up eight times."**  — *Paulo Coelho*
+**"Yesterday is but today's memory, tomorrow is today's dream."**  — *Kahlil Gibran*
 <!--QUOTE_END-->
 
 ---
