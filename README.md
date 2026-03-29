@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Yesterday is but today's memory, tomorrow is today's dream."**  — *Kahlil Gibran*
+**"You must learn to let go. Release the stress. You were never in control anyway."**  — *Steve Maraboli*
 <!--QUOTE_END-->
 
 ---
