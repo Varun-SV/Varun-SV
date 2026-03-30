@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"You must learn to let go. Release the stress. You were never in control anyway."**  — *Steve Maraboli*
+**"Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found."**  — *Pema Chodron*
 <!--QUOTE_END-->
 
 ---
