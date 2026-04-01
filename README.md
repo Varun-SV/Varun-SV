@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Talent is luck. The important thing in life is courage."**  — *Woody Allen*
+**"Change is never easy, but always possible."**  — *Barack Obama*
 <!--QUOTE_END-->
 
 ---
