@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"My powers are ordinary. Only my application brings me success."**  — *Isaac Newton*
+**"Sometimes good things fall apart so better things can fall together."**  — *Marilyn Monroe*
 <!--QUOTE_END-->
 
 ---
