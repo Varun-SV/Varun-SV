@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Sometimes good things fall apart so better things can fall together."**  — *Marilyn Monroe*
+**"You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes."**  — *A.A. Milne*
 <!--QUOTE_END-->
 
 ---
