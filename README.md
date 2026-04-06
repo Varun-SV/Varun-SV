@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"The greatest miracle is to be alive."**  — *Thich Nhat Hanh*
+**"The ladder of success is best climbed by stepping on the rungs of opportunity."**  — *Ayn Rand*
 <!--QUOTE_END-->
 
 ---
