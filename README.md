@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"The ladder of success is best climbed by stepping on the rungs of opportunity."**  — *Ayn Rand*
+**"Experience is a comb which nature gives us when we are bald. "**  — *Chinese Proverb*
 <!--QUOTE_END-->
 
 ---
