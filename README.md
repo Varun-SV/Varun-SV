@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Experience is a comb which nature gives us when we are bald. "**  — *Chinese Proverb*
+**"Teachers open the door. You enter by yourself. "**  — *Chinese Proverb*
 <!--QUOTE_END-->
 
 ---
