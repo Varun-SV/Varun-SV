@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Teachers open the door. You enter by yourself. "**  — *Chinese Proverb*
+**"A heart is not judged by how much you love, but by how much you are loved by others."**  — *Judy Garland*
 <!--QUOTE_END-->
 
 ---
