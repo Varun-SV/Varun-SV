@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"A heart is not judged by how much you love, but by how much you are loved by others."**  — *Judy Garland*
+**"Repetition does not transform a lie into a truth."**  — *Franklin D. Roosevelt*
 <!--QUOTE_END-->
 
 ---
