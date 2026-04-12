@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Repetition does not transform a lie into a truth."**  — *Franklin D. Roosevelt*
+**"Creativity is the greatest rebellion in existence."**  — *Osho*
 <!--QUOTE_END-->
 
 ---
