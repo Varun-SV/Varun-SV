@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Creativity is the greatest rebellion in existence."**  — *Osho*
+**"Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone. "**  — *Jack Kerouac*
 <!--QUOTE_END-->
 
 ---
