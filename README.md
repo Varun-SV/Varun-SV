@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone. "**  — *Jack Kerouac*
+**"When it comes to mastering a skill, time is the magic ingredient."**  — *Robert Greene*
 <!--QUOTE_END-->
 
 ---
