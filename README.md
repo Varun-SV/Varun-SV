@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"When it comes to mastering a skill, time is the magic ingredient."**  — *Robert Greene*
+**"Not all of us can do great things. But we can do small things with great love."**  — *Mother Teresa*
 <!--QUOTE_END-->
 
 ---
