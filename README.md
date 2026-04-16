@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Not all of us can do great things. But we can do small things with great love."**  — *Mother Teresa*
+**"Living life in style also means living a life of balance."**  — *Jim Rohn*
 <!--QUOTE_END-->
 
 ---
