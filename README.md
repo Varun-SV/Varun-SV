@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Most of the evil in this world is done by people with good intentions."**  — *T.S. Eliot*
+**"Sometimes it is more important to discover what one cannot do, than what one can do."**  — *Lin Yutang*
 <!--QUOTE_END-->
 
 ---
