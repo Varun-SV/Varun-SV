@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Sometimes it is more important to discover what one cannot do, than what one can do."**  — *Lin Yutang*
+**"If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you."**  — *T.S. Eliot*
 <!--QUOTE_END-->
 
 ---
