@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you."**  — *T.S. Eliot*
+**"Human behavior flows from three main sources: desire, emotion, and knowledge."**  — *Plato*
 <!--QUOTE_END-->
 
 ---
