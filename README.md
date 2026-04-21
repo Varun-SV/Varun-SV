@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Human behavior flows from three main sources: desire, emotion, and knowledge."**  — *Plato*
+**"A mountain never yields to the wind no matter how strong it is."**  — *Zen Proverb*
 <!--QUOTE_END-->
 
 ---
