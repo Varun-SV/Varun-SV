@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"The four P's to success are pressure, persistence, perseverance, and prayer."**  — *Steve Harvey*
+**"Forgive those who have hurt you."**  — *Les Brown*
 <!--QUOTE_END-->
 
 ---
