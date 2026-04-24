@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Forgive those who have hurt you."**  — *Les Brown*
+**"Champions keep playing until they get it right."**  — *Billie Jean King*
 <!--QUOTE_END-->
 
 ---
