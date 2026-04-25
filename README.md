@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Champions keep playing until they get it right."**  — *Billie Jean King*
+**"Paths are made by walking."**  — *Franz Kafka*
 <!--QUOTE_END-->
 
 ---
