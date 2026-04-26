@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Paths are made by walking."**  — *Franz Kafka*
+**"Don't seek, don't avoid, don't expect. Take what comes and be happy."**  — *Maxime Lagace*
 <!--QUOTE_END-->
 
 ---
