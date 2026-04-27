@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Don't seek, don't avoid, don't expect. Take what comes and be happy."**  — *Maxime Lagace*
+**"In order to control myself I must first accept myself by going with and not against my nature."**  — *Bruce Lee*
 <!--QUOTE_END-->
 
 ---
