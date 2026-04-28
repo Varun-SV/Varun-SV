@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"In order to control myself I must first accept myself by going with and not against my nature."**  — *Bruce Lee*
+**"Freeing oneself from words is liberation. "**  — *Bodhidharma*
 <!--QUOTE_END-->
 
 ---
