@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Freeing oneself from words is liberation. "**  — *Bodhidharma*
+**"In spite of everything, I shall rise again."**  — *Vincent van Gogh*
 <!--QUOTE_END-->
 
 ---
