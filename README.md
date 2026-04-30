@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"In spite of everything, I shall rise again."**  — *Vincent van Gogh*
+**"We ordinary people must forge our own beauty."**  — *Kenji Miyazawa*
 <!--QUOTE_END-->
 
 ---
