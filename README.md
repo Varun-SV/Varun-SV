@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"We ordinary people must forge our own beauty."**  — *Kenji Miyazawa*
+**"A diamond is a piece of charcoal that handled stress exceptionally well."**  — *Unknown*
 <!--QUOTE_END-->
 
 ---
