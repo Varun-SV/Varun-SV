@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"A diamond is a piece of charcoal that handled stress exceptionally well."**  — *Unknown*
+**"It's the possibility of having a dream come true that makes life interesting."**  — *Paulo Coelho*
 <!--QUOTE_END-->
 
 ---
