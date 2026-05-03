@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"It's the possibility of having a dream come true that makes life interesting."**  — *Paulo Coelho*
+**"You can live a whole life time never being awake."**  — *Dan Millman*
 <!--QUOTE_END-->
 
 ---
