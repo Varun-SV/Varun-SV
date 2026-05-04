@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"You can live a whole life time never being awake."**  — *Dan Millman*
+**"Life has no limitations except the ones you make."**  — *Les Brown*
 <!--QUOTE_END-->
 
 ---
