@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Life has no limitations except the ones you make."**  — *Les Brown*
+**"Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways."**  — *Sigmund Freud*
 <!--QUOTE_END-->
 
 ---
