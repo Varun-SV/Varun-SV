@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways."**  — *Sigmund Freud*
+**"Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window."**  — *Peter Drucker*
 <!--QUOTE_END-->
 
 ---
