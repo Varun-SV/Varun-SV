@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window."**  — *Peter Drucker*
+**"Nothing is too high for a man to reach, but he must climb with care and confidence"**  — *Hans Christian Andersen*
 <!--QUOTE_END-->
 
 ---
