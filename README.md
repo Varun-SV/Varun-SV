@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Nothing is too high for a man to reach, but he must climb with care and confidence"**  — *Hans Christian Andersen*
+**"It's not what you've got; it's what you do that makes the difference."**  — *Celestine Chua*
 <!--QUOTE_END-->
 
 ---
