@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"It's not what you've got; it's what you do that makes the difference."**  — *Celestine Chua*
+**"However difficult life may seem, there is always something you can do and succeed at."**  — *Stephen Hawking*
 <!--QUOTE_END-->
 
 ---
