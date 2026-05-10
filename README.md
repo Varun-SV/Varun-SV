@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"However difficult life may seem, there is always something you can do and succeed at."**  — *Stephen Hawking*
+**"Bloom where you are planted!"**  — *Mary Engelbreit*
 <!--QUOTE_END-->
 
 ---
