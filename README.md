@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Bloom where you are planted!"**  — *Mary Engelbreit*
+**"The joy of life comes from our encounters with new experiences."**  — *Christopher McCandless*
 <!--QUOTE_END-->
 
 ---
