@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"The joy of life comes from our encounters with new experiences."**  — *Christopher McCandless*
+**"Not until we are lost do we begin to understand ourselves."**  — *Henry David Thoreau*
 <!--QUOTE_END-->
 
 ---
