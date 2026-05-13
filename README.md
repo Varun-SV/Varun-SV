@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Not until we are lost do we begin to understand ourselves."**  — *Henry David Thoreau*
+**"The world is a puzzle; no need to make sense out of it."**  — *Socrates*
 <!--QUOTE_END-->
 
 ---
