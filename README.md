@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Engage in those actions and thoughts that nurture the good qualities you want to have."**  — *Paramahansa Yogananda*
+**"We are willing to believe anything other than the truth."**  — *Carlos Ruiz Zafon*
 <!--QUOTE_END-->
 
 ---
