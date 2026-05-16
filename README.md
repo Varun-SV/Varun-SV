@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"We are willing to believe anything other than the truth."**  — *Carlos Ruiz Zafon*
+**"Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot."**  — *Wayne Gretzky*
 <!--QUOTE_END-->
 
 ---
