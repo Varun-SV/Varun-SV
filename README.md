@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Thinking is difficult, that's why most people judge."**  — *Carl Jung*
+**"Worry is a waste of emotional reserve."**  — *Ayn Rand*
 <!--QUOTE_END-->
 
 ---
