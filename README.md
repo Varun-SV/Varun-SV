@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Worry is a waste of emotional reserve."**  — *Ayn Rand*
+**"Happiness can be found, even in the darkest of times, if one only remembers to turn on the light."**  — *Albus Dumbledore*
 <!--QUOTE_END-->
 
 ---
