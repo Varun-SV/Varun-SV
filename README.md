@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"Happiness can be found, even in the darkest of times, if one only remembers to turn on the light."**  — *Albus Dumbledore*
+**"The Art of Peace begins with you."**  — *Morihei Ueshiba*
 <!--QUOTE_END-->
 
 ---
