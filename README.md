@@ -8,7 +8,7 @@ I'm a **Software Engineer** who loves exploring the intersection of **software +
 ## 🌟 Daily Motivation
 
 <!--QUOTE_START-->
-**"The Art of Peace begins with you."**  — *Morihei Ueshiba*
+**"People who have goals succeed because they know where they're going. It's that simple."**  — *Earl Nightingale*
 <!--QUOTE_END-->
 
 ---
