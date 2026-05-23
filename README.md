@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"People who have goals succeed because they know where they're going. It's that simple."**  — *Earl Nightingale*
+**"Some people dream of success, while others wake up and work hard at it."**  — *Napoleon Hill*
 <!--QUOTE_END-->
