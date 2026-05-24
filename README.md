@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Some people dream of success, while others wake up and work hard at it."**  — *Napoleon Hill*
+**"Every drop in the ocean counts."**  — *Yoko Ono*
 <!--QUOTE_END-->
