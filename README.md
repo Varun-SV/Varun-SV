@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Every drop in the ocean counts."**  — *Yoko Ono*
+**"The quieter you become, the more you are able to hear."**  — *Rumi*
 <!--QUOTE_END-->
