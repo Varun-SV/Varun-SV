@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"The quieter you become, the more you are able to hear."**  — *Rumi*
+**"If you done it, it ain't bragging."**  — *Walt Whitman*
 <!--QUOTE_END-->
