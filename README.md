@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"If you done it, it ain't bragging."**  — *Walt Whitman*
+**"Imagination is everything. It is the preview of life's coming attractions."**  — *Albert Einstein*
 <!--QUOTE_END-->
