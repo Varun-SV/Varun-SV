@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Imagination is everything. It is the preview of life's coming attractions."**  — *Albert Einstein*
+**"In matters of style, swim with the current; in matters of principle, stand like a rock."**  — *Thomas Jefferson*
 <!--QUOTE_END-->
