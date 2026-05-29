@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"In matters of style, swim with the current; in matters of principle, stand like a rock."**  — *Thomas Jefferson*
+**"Find the game where you can win, and then commit your life to playing it; and play to win."**  — *Robert Kiyosaki*
 <!--QUOTE_END-->
