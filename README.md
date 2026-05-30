@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Find the game where you can win, and then commit your life to playing it; and play to win."**  — *Robert Kiyosaki*
+**"A zen master's life is one continuous mistake."**  — *Dogen*
 <!--QUOTE_END-->
