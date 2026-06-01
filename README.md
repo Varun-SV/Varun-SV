@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction."**  — *Criss Jami*
+**"Find something you love and do it better than everyone else."**  — *Gurbaksh Chahal*
 <!--QUOTE_END-->
