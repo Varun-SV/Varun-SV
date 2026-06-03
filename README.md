@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Giving is living. If you stop wanting to give, there's nothing more to live for."**  — *Audrey Hepburn*
+**"Everything that is done in the world is done by hope."**  — *Martin Luther*
 <!--QUOTE_END-->
