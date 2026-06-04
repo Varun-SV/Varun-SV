@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Everything that is done in the world is done by hope."**  — *Martin Luther*
+**"The secret of life is to fall seven times and to get up eight times."**  — *Paulo Coelho*
 <!--QUOTE_END-->
