@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"The secret of life is to fall seven times and to get up eight times."**  — *Paulo Coelho*
+**"TEAMWORK: the fuel that allows common people attain uncommon results."**  — *Andrew Carnegie*
 <!--QUOTE_END-->
