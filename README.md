@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"TEAMWORK: the fuel that allows common people attain uncommon results."**  — *Andrew Carnegie*
+**"It is better to fail in originality than to succeed in imitation."**  — *Herman Melville*
 <!--QUOTE_END-->
