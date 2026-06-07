@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"It is better to fail in originality than to succeed in imitation."**  — *Herman Melville*
+**"If you don't know where you're going, you will probably end up somewhere else."**  — *Laurence J. Peter*
 <!--QUOTE_END-->
