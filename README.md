@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"If you don't know where you're going, you will probably end up somewhere else."**  — *Laurence J. Peter*
+**"Give more than you think you can, trusting that you are richer than you think."**  — *Jon Kabat-Zinn*
 <!--QUOTE_END-->
