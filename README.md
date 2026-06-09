@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Give more than you think you can, trusting that you are richer than you think."**  — *Jon Kabat-Zinn*
+**"You need to be doing fewer things for more effect instead of doing more things with side effects."**  — *Gary Keller*
 <!--QUOTE_END-->
