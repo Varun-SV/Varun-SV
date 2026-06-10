@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"You need to be doing fewer things for more effect instead of doing more things with side effects."**  — *Gary Keller*
+**"Correct what you can. Learn from what you can't."**  — *Toni Morrison*
 <!--QUOTE_END-->
