@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Correct what you can. Learn from what you can't."**  — *Toni Morrison*
+**"Out of your vulnerabilities will come your strength."**  — *Sigmund Freud*
 <!--QUOTE_END-->
