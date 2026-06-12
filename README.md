@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Out of your vulnerabilities will come your strength."**  — *Sigmund Freud*
+**"Winners never quit and quitters never win."**  — *Vince Lombardi*
 <!--QUOTE_END-->
