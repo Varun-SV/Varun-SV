@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Winners never quit and quitters never win."**  — *Vince Lombardi*
+**"Heal the past, live the present, dream the future."**  — *Mary Engelbreit*
 <!--QUOTE_END-->
