@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Heal the past, live the present, dream the future."**  — *Mary Engelbreit*
+**"Make improvements, not excuses. Seek respect, not attention."**  — *Roy T. Bennett*
 <!--QUOTE_END-->
