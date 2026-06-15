@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Make improvements, not excuses. Seek respect, not attention."**  — *Roy T. Bennett*
+**"It's not how much we give but how much love we put into giving."**  — *Mother Teresa*
 <!--QUOTE_END-->
