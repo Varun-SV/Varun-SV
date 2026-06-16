@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"It's not how much we give but how much love we put into giving."**  — *Mother Teresa*
+**"We can spend our whole lives escaping from the monsters of our minds."**  — *Pema Chodron*
 <!--QUOTE_END-->
