@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"We can spend our whole lives escaping from the monsters of our minds."**  — *Pema Chodron*
+**"I begin with an idea and then it becomes something else."**  — *Pablo Picasso*
 <!--QUOTE_END-->
