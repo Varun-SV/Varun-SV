@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"I begin with an idea and then it becomes something else."**  — *Pablo Picasso*
+**"A little impatience will spoil great plans."**  — *Chinese Proverb*
 <!--QUOTE_END-->
