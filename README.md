@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"A little impatience will spoil great plans."**  — *Chinese Proverb*
+**"All I can do is be me, whoever that is."**  — *Bob Dylan*
 <!--QUOTE_END-->
