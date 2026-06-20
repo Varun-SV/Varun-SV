@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"All I can do is be me, whoever that is."**  — *Bob Dylan*
+**"Let us rather run the risk of wearing out than rusting out."**  — *Theodore Roosevelt*
 <!--QUOTE_END-->
