@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Let us rather run the risk of wearing out than rusting out."**  — *Theodore Roosevelt*
+**"It's OK to have your eggs in one basket as long as you control what happens to that basket."**  — *Elon Musk*
 <!--QUOTE_END-->
