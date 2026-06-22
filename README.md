@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"It's OK to have your eggs in one basket as long as you control what happens to that basket."**  — *Elon Musk*
+**"Remember the entrance to the sanctuary is inside you."**  — *Rumi*
 <!--QUOTE_END-->
