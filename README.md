@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Remember the entrance to the sanctuary is inside you."**  — *Rumi*
+**"Life is like a wheel. Sooner or later, it always comes around to where you started again."**  — *Stephen King*
 <!--QUOTE_END-->
