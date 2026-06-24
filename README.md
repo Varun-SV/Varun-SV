@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Life is like a wheel. Sooner or later, it always comes around to where you started again."**  — *Stephen King*
+**"If there were no God, there would be no atheists."**  — *Gilbert Chesterton*
 <!--QUOTE_END-->
