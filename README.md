@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"If there were no God, there would be no atheists."**  — *Gilbert Chesterton*
+**"Opportunity comes when you continually push forward."**  — *Sonia Ricotti*
 <!--QUOTE_END-->
