@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Opportunity comes when you continually push forward."**  — *Sonia Ricotti*
+**"In matters of style, swim with the current; in matters of principle, stand like a rock."**  — *Thomas Jefferson*
 <!--QUOTE_END-->
