@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"In matters of style, swim with the current; in matters of principle, stand like a rock."**  — *Thomas Jefferson*
+**"Many roads lead to the path, but basically there are only two: reason and practice."**  — *Bodhidharma*
 <!--QUOTE_END-->
