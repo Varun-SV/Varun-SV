@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Many roads lead to the path, but basically there are only two: reason and practice."**  — *Bodhidharma*
+**"A path is made by walking on it."**  — *Zhuangzi*
 <!--QUOTE_END-->
