@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Change your thoughts and you change your world."**  — *Norman Vincent Peale*
+**"If you take responsibility for yourself you will develop a hunger to accomplish your dream."**  — *Les Brown*
 <!--QUOTE_END-->
