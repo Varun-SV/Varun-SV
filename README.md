@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"If you take responsibility for yourself you will develop a hunger to accomplish your dream."**  — *Les Brown*
+**"No one ever said life was fair. Just Eventful."**  — *Carol Burnett*
 <!--QUOTE_END-->
