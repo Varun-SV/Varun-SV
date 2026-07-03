@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"No one ever said life was fair. Just Eventful."**  — *Carol Burnett*
+**"The best answer to anger is silence."**  — *Marcus Aurelius*
 <!--QUOTE_END-->
