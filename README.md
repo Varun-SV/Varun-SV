@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"The best answer to anger is silence."**  — *Marcus Aurelius*
+**"Educating the mind without educating the heart is no education at all."**  — *Aristotle*
 <!--QUOTE_END-->
