@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Educating the mind without educating the heart is no education at all."**  — *Aristotle*
+**"Fear is stupid. So are regrets."**  — *Marilyn Monroe*
 <!--QUOTE_END-->
