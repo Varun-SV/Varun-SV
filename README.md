@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Fear is stupid. So are regrets."**  — *Marilyn Monroe*
+**"The best way to predict the future is to create it."**  — *Abraham Lincoln*
 <!--QUOTE_END-->
