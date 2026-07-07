@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"The best way to predict the future is to create it."**  — *Abraham Lincoln*
+**"If you don't like something, change it. If you can't change it, change your attitude."**  — *Maya Angelou*
 <!--QUOTE_END-->
