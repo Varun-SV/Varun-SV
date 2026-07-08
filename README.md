@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"If you don't like something, change it. If you can't change it, change your attitude."**  — *Maya Angelou*
+**"When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything."**  — *Paramahansa Yogananda*
 <!--QUOTE_END-->
