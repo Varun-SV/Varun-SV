@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work."**  — *Estee Lauder*
+**"By perseverance the snail reached the ark."**  — *Charles Spurgeon*
 <!--QUOTE_END-->
