@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"By perseverance the snail reached the ark."**  — *Charles Spurgeon*
+**"The desire for more positive experience is itself a negative experience."**  — *Mark Manson*
 <!--QUOTE_END-->
