@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"The desire for more positive experience is itself a negative experience."**  — *Mark Manson*
+**"He who cheats the earth will be cheated by the earth."**  — *Chinese Proverb*
 <!--QUOTE_END-->
