@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"He who cheats the earth will be cheated by the earth."**  — *Chinese Proverb*
+**"Action may not always bring happiness, but there is no happiness without action."**  — *William James*
 <!--QUOTE_END-->
