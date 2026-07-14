@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Action may not always bring happiness, but there is no happiness without action."**  — *William James*
+**"The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails."**  — *Colin R. Davis*
 <!--QUOTE_END-->
