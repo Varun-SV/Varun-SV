@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails."**  — *Colin R. Davis*
+**"Those who bring sunshine into the lives of others cannot keep it from themselves."**  — *James Matthew Barrie*
 <!--QUOTE_END-->
