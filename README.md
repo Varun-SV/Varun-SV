@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Those who bring sunshine into the lives of others cannot keep it from themselves."**  — *James Matthew Barrie*
+**"The more knowledge you have, the more you're free to rely on your instincts."**  — *Arnold Schwarzenegger*
 <!--QUOTE_END-->
