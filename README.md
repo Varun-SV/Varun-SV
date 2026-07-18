@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"The more knowledge you have, the more you're free to rely on your instincts."**  — *Arnold Schwarzenegger*
+**"The more often a stupidity is repeated, the more it gets the appearance of wisdom."**  — *Voltaire*
 <!--QUOTE_END-->
