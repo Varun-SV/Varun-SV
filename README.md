@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"The more often a stupidity is repeated, the more it gets the appearance of wisdom."**  — *Voltaire*
+**"If you want something you've never had you must be willing to do something you've never done."**  — *Thomas Jefferson*
 <!--QUOTE_END-->
