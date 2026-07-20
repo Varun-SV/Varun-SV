@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"If you want something you've never had you must be willing to do something you've never done."**  — *Thomas Jefferson*
+**"Learning never exhausts the mind."**  — *Leonardo da Vinci*
 <!--QUOTE_END-->
