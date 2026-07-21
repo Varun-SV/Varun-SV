@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Learning never exhausts the mind."**  — *Leonardo da Vinci*
+**"Whatever you decide to do, make sure it makes you happy."**  — *Paulo Coelho*
 <!--QUOTE_END-->
