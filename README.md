@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Whatever you decide to do, make sure it makes you happy."**  — *Paulo Coelho*
+**"Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose."**  — *Simon Sinek*
 <!--QUOTE_END-->
