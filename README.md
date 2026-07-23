@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose."**  — *Simon Sinek*
+**"If you're afraid - don't do it, - if you're doing it - don't be afraid!"**  — *Genghis Khan*
 <!--QUOTE_END-->
