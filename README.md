@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"If you're afraid - don't do it, - if you're doing it - don't be afraid!"**  — *Genghis Khan*
+**"Life is like playing the violin in public and learning the instrument as one goes on."**  — *Samuel Butler*
 <!--QUOTE_END-->
