@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Life is like playing the violin in public and learning the instrument as one goes on."**  — *Samuel Butler*
+**"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."**  — *Thomas Edison*
 <!--QUOTE_END-->
