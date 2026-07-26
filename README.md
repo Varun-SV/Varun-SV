@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."**  — *Thomas Edison*
+**"Only the hand that erases can write the true thing."**  — *Meister Eckhart*
 <!--QUOTE_END-->
