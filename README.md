@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Only the hand that erases can write the true thing."**  — *Meister Eckhart*
+**"The only reason to be alive is to enjoy it."**  — *Rita Mae Brown*
 <!--QUOTE_END-->
