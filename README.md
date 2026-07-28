@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"The only reason to be alive is to enjoy it."**  — *Rita Mae Brown*
+**"If you're walking down the right path and you're willing to keep walking, eventually you'll make progress."**  — *Barack Obama*
 <!--QUOTE_END-->
