@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"If you're walking down the right path and you're willing to keep walking, eventually you'll make progress."**  — *Barack Obama*
+**"Time doesn't heal emotional pain, you need to learn how to let go."**  — *Roy T. Bennett*
 <!--QUOTE_END-->
