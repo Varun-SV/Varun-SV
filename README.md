@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Time doesn't heal emotional pain, you need to learn how to let go."**  — *Roy T. Bennett*
+**"In all chaos there is a cosmos, in all disorder a secret order."**  — *Carl Jung*
 <!--QUOTE_END-->
