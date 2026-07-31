@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"In all chaos there is a cosmos, in all disorder a secret order."**  — *Carl Jung*
+**"The key to success is to focus our conscious mind on things we desire not things we fear."**  — *Brian Tracy*
 <!--QUOTE_END-->
