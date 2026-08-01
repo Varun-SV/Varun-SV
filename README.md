@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"The key to success is to focus our conscious mind on things we desire not things we fear."**  — *Brian Tracy*
+**"Change begets change. Nothing propagates so fast."**  — *Charles Dickens*
 <!--QUOTE_END-->
