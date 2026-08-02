@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Change begets change. Nothing propagates so fast."**  — *Charles Dickens*
+**"In the end, it's not the years in your life that count. It's the life in your years."**  — *Abraham Lincoln*
 <!--QUOTE_END-->
