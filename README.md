@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"In the end, it's not the years in your life that count. It's the life in your years."**  — *Abraham Lincoln*
+**"No one ever said life was fair. Just Eventful."**  — *Carol Burnett*
 <!--QUOTE_END-->
