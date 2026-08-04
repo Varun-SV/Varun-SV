@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"No one ever said life was fair. Just Eventful."**  — *Carol Burnett*
+**"If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present."**  — *Lao Tzu*
 <!--QUOTE_END-->
