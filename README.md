@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Only when one allows themself the right to die, do they then give yourself the permission to live."**  — *C. Sean McGee*
+**"Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment."**  — *Celestine Chua*
 <!--QUOTE_END-->
