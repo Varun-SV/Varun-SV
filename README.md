@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment."**  — *Celestine Chua*
+**"Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives."**  — *Betty White*
 <!--QUOTE_END-->
