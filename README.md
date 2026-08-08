@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives."**  — *Betty White*
+**"The greatest discovery of all time is that a person can change their future by merely changing their attitude."**  — *Oprah Winfrey*
 <!--QUOTE_END-->
