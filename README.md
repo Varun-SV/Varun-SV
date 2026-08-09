@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"The greatest discovery of all time is that a person can change their future by merely changing their attitude."**  — *Oprah Winfrey*
+**"Muddy water is best cleared by leaving it alone."**  — *Alan Watts*
 <!--QUOTE_END-->
