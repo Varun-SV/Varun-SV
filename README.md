@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Muddy water is best cleared by leaving it alone."**  — *Alan Watts*
+**"If you're afraid to die, you're afraid to live. You can't have one without the other."**  — *Rita Mae Brown*
 <!--QUOTE_END-->
