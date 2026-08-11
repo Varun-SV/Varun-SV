@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"If you're afraid to die, you're afraid to live. You can't have one without the other."**  — *Rita Mae Brown*
+**"The best leaders are constantly learning, curious about where they made mistakes and actively looking for areas where they might have it wrong."**  — *Jeff Booth*
 <!--QUOTE_END-->
