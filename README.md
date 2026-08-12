@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"The best leaders are constantly learning, curious about where they made mistakes and actively looking for areas where they might have it wrong."**  — *Jeff Booth*
+**"Be happy now, without reason - or you never will be at all."**  — *Dan Millman*
 <!--QUOTE_END-->
