@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Be happy now, without reason - or you never will be at all."**  — *Dan Millman*
+**"Determine never to be idle. No person will have occasion to complain of the want of time who never loses any."**  — *Thomas Jefferson*
 <!--QUOTE_END-->
