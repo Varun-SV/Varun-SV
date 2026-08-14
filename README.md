@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Determine never to be idle. No person will have occasion to complain of the want of time who never loses any."**  — *Thomas Jefferson*
+**"I was angered, for I had no shoes. Then I met a man who had no feet."**  — *Chinese Proverb*
 <!--QUOTE_END-->
