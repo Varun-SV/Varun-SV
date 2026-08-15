@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"I was angered, for I had no shoes. Then I met a man who had no feet."**  — *Chinese Proverb*
+**"Do not fight with pigs - you will be smeared in mud but the pig will like it."**  — *George Bernard Shaw*
 <!--QUOTE_END-->
