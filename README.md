@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Do not fight with pigs - you will be smeared in mud but the pig will like it."**  — *George Bernard Shaw*
+**"What's right is what's left if you do everything else wrong."**  — *Robin Williams*
 <!--QUOTE_END-->
