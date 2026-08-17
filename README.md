@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"What's right is what's left if you do everything else wrong."**  — *Robin Williams*
+**"Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself."**  — *Robert Kiyosaki*
 <!--QUOTE_END-->
