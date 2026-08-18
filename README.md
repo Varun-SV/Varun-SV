@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself."**  — *Robert Kiyosaki*
+**"The destiny of man is in his own soul."**  — *Herodotus*
 <!--QUOTE_END-->
