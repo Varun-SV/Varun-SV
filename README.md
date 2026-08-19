@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"The destiny of man is in his own soul."**  — *Herodotus*
+**"Believe you can and you're halfway there."**  — *Colin R. Davis*
 <!--QUOTE_END-->
