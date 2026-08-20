@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Believe you can and you're halfway there."**  — *Colin R. Davis*
+**"Before preparing to improve the world, first look around your own home three times."**  — *Chinese Proverb*
 <!--QUOTE_END-->
