@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Before preparing to improve the world, first look around your own home three times."**  — *Chinese Proverb*
+**"Remember, today is the tomorrow you worried about yesterday."**  — *Dale Carnegie*
 <!--QUOTE_END-->
