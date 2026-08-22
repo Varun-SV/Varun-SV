@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Remember, today is the tomorrow you worried about yesterday."**  — *Dale Carnegie*
+**"What you are afraid of is never as bad as what you imagine. The fear you let build up in your mind is worse than the situation that actually exists."**  — *Spencer Johnson*
 <!--QUOTE_END-->
