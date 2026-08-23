@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"What you are afraid of is never as bad as what you imagine. The fear you let build up in your mind is worse than the situation that actually exists."**  — *Spencer Johnson*
+**"Do you want to know who you are? Don't ask. Act! Action will delineate and define you."**  — *Thomas Jefferson*
 <!--QUOTE_END-->
