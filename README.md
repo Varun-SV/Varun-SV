@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Do you want to know who you are? Don't ask. Act! Action will delineate and define you."**  — *Thomas Jefferson*
+**"The best answer to anger is silence."**  — *Marcus Aurelius*
 <!--QUOTE_END-->
