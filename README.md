@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"The best answer to anger is silence."**  — *Marcus Aurelius*
+**"A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you."**  — *Bob Proctor*
 <!--QUOTE_END-->
