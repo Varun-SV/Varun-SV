@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you."**  — *Bob Proctor*
+**"Just because something isn't a lie does not mean that it isn't deceptive."**  — *Criss Jami*
 <!--QUOTE_END-->
