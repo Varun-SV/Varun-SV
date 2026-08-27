@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Just because something isn't a lie does not mean that it isn't deceptive."**  — *Criss Jami*
+**"Reality is the leading cause of stress among those in touch with it."**  — *Lily Tomlin*
 <!--QUOTE_END-->
