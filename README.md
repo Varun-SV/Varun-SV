@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Reality is the leading cause of stress among those in touch with it."**  — *Lily Tomlin*
+**"The only person you should try to be better than is the person you were yesterday."**  — *Brian Tracy*
 <!--QUOTE_END-->
