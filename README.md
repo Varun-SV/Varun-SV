@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"The only person you should try to be better than is the person you were yesterday."**  — *Brian Tracy*
+**"I am who I am today because of the choices I made yesterday."**  — *Eleanor Roosevelt*
 <!--QUOTE_END-->
