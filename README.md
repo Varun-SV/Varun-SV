@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"I am who I am today because of the choices I made yesterday."**  — *Eleanor Roosevelt*
+**"If you pray for rain, be prepared to deal with some mud."**  — *Mary Engelbreit*
 <!--QUOTE_END-->
