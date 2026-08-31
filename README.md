@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"If you pray for rain, be prepared to deal with some mud."**  — *Mary Engelbreit*
+**"A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise."**  — *Buddha*
 <!--QUOTE_END-->
