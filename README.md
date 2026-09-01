@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise."**  — *Buddha*
+**"If we are not able to smile, then the world will not have peace."**  — *Thich Nhat Hanh*
 <!--QUOTE_END-->
