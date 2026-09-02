@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"If we are not able to smile, then the world will not have peace."**  — *Thich Nhat Hanh*
+**"Life can be wonderful if you're not afraid of it."**  — *Charlie Chaplin*
 <!--QUOTE_END-->
