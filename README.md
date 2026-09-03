@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Life can be wonderful if you're not afraid of it."**  — *Charlie Chaplin*
+**"Anger begins with folly, and ends with repentance."**  — *Beverly Sills*
 <!--QUOTE_END-->
