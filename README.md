@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Anger begins with folly, and ends with repentance."**  — *Beverly Sills*
+**"The single biggest problem in communication is the illusion that it has taken place."**  — *George Bernard Shaw*
 <!--QUOTE_END-->
