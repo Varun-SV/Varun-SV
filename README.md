@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"The single biggest problem in communication is the illusion that it has taken place."**  — *George Bernard Shaw*
+**"If you are ever the smartest person in the room, you are in the wrong room."**  — *C. Sean McGee*
 <!--QUOTE_END-->
