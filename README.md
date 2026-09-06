@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"If you are ever the smartest person in the room, you are in the wrong room."**  — *C. Sean McGee*
+**"Everyone must choose one of two pains: The pain of discipline or the pain of regret."**  — *Jim Rohn*
 <!--QUOTE_END-->
