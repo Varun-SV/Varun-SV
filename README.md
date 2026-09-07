@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Everyone must choose one of two pains: The pain of discipline or the pain of regret."**  — *Jim Rohn*
+**"Resilience is not what happens to you. It's how you react to, respond to, and recover from what happens to you."**  — *Jeffrey Gitomer*
 <!--QUOTE_END-->
