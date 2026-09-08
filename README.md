@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Resilience is not what happens to you. It's how you react to, respond to, and recover from what happens to you."**  — *Jeffrey Gitomer*
+**"The busy man is never wise and the wise man is never busy."**  — *Lin Yutang*
 <!--QUOTE_END-->
