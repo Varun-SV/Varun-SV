@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"The busy man is never wise and the wise man is never busy."**  — *Lin Yutang*
+**"The most important single ingredient in the formula of success is knowing how to get along with people."**  — *Theodore Roosevelt*
 <!--QUOTE_END-->
