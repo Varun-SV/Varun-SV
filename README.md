@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"The most important single ingredient in the formula of success is knowing how to get along with people."**  — *Theodore Roosevelt*
+**"Just because something isn't a lie does not mean that it isn't deceptive."**  — *Criss Jami*
 <!--QUOTE_END-->
