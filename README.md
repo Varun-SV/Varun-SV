@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Just because something isn't a lie does not mean that it isn't deceptive."**  — *Criss Jami*
+**"People think about what they don't want and attract more of the same."**  — *Unknown*
 <!--QUOTE_END-->
