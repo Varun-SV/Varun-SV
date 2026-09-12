@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"People think about what they don't want and attract more of the same."**  — *Unknown*
+**"The future is not a gift. It is an achievement."**  — *Robert F. Kennedy*
 <!--QUOTE_END-->
