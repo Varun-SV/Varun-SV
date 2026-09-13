@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"The future is not a gift. It is an achievement."**  — *Robert F. Kennedy*
+**"Not all of us can do great things. But we can do small things with great love."**  — *Mother Teresa*
 <!--QUOTE_END-->
