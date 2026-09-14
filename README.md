@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Not all of us can do great things. But we can do small things with great love."**  — *Mother Teresa*
+**"Empty your mind, be formless, shapeless, like water."**  — *Bruce Lee*
 <!--QUOTE_END-->
