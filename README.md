@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Empty your mind, be formless, shapeless, like water."**  — *Bruce Lee*
+**"A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road."**  — *Henry Ward Beecher*
 <!--QUOTE_END-->
