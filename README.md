@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road."**  — *Henry Ward Beecher*
+**"To accomplish big things, I am convinced you must first dream big dreams."**  — *Conrad Hilton*
 <!--QUOTE_END-->
