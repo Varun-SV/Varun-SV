@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"To accomplish big things, I am convinced you must first dream big dreams."**  — *Conrad Hilton*
+**"Don't give up on your dreams, or your dreams will give up on you."**  — *John Wooden*
 <!--QUOTE_END-->
