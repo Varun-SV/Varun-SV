@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Don't give up on your dreams, or your dreams will give up on you."**  — *John Wooden*
+**"Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water."**  — *Buddha*
 <!--QUOTE_END-->
