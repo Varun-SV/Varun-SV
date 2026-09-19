@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water."**  — *Buddha*
+**"The world doesn't owe you anything. It was here first."**  — *Mark Twain*
 <!--QUOTE_END-->
