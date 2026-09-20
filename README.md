@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"The world doesn't owe you anything. It was here first."**  — *Mark Twain*
+**"A day without laughter is a day wasted."**  — *Charlie Chaplin*
 <!--QUOTE_END-->
