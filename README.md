@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"A day without laughter is a day wasted."**  — *Charlie Chaplin*
+**"Opportunities don't often come along. So, when they do, you have to grab them."**  — *Audrey Hepburn*
 <!--QUOTE_END-->
