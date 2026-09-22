@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Opportunities don't often come along. So, when they do, you have to grab them."**  — *Audrey Hepburn*
+**"Your business is not to 'get somewhere' - it is to be here."**  — *Dan Millman*
 <!--QUOTE_END-->
