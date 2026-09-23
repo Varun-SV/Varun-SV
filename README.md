@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Your business is not to 'get somewhere' - it is to be here."**  — *Dan Millman*
+**"Giving is living. If you stop wanting to give, there's nothing more to live for."**  — *Audrey Hepburn*
 <!--QUOTE_END-->
