@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Giving is living. If you stop wanting to give, there's nothing more to live for."**  — *Audrey Hepburn*
+**"If you've never eaten while crying you don t know what life tastes like."**  — *Johann Wolfgang von Goethe*
 <!--QUOTE_END-->
