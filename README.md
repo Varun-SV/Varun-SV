@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"If you've never eaten while crying you don t know what life tastes like."**  — *Johann Wolfgang von Goethe*
+**"Even if you're sure you can win, be careful that you can live with what you lose."**  — *Gary Keller*
 <!--QUOTE_END-->
