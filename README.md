@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Even if you're sure you can win, be careful that you can live with what you lose."**  — *Gary Keller*
+**"If you want to be successful, you have to jump, there's no way around it."**  — *Steve Harvey*
 <!--QUOTE_END-->
