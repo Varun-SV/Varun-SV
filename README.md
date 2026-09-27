@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"If you want to be successful, you have to jump, there's no way around it."**  — *Steve Harvey*
+**"Realistic people do not accomplish extraordinary things."**  — *John Eliot*
 <!--QUOTE_END-->
