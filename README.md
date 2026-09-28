@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Realistic people do not accomplish extraordinary things."**  — *John Eliot*
+**"Throw your heart over the fence and the rest will follow"**  — *Norman Vincent Peale*
 <!--QUOTE_END-->
