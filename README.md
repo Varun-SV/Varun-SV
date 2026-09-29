@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Throw your heart over the fence and the rest will follow"**  — *Norman Vincent Peale*
+**"Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured."**  — *Mark Twain*
 <!--QUOTE_END-->
