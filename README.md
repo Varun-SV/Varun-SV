@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured."**  — *Mark Twain*
+**"Unless you change how you are, you will always have what you got."**  — *Jim Rohn*
 <!--QUOTE_END-->
