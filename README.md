@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Unless you change how you are, you will always have what you got."**  — *Jim Rohn*
+**"Your worth consists in what you are and not in what you have."**  — *Thomas Edison*
 <!--QUOTE_END-->
