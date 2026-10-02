@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Your worth consists in what you are and not in what you have."**  — *Thomas Edison*
+**"Challenge yourself to find the good and beautiful thing inside of everyone."**  — *Mark Manson*
 <!--QUOTE_END-->
