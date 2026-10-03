@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Challenge yourself to find the good and beautiful thing inside of everyone."**  — *Mark Manson*
+**"Being wrong opens us up to the possibility of change."**  — *Mark Manson*
 <!--QUOTE_END-->
