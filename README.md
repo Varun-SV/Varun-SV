@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Being wrong opens us up to the possibility of change."**  — *Mark Manson*
+**"Even when a friend does something you do not like, he continues to be your friend."**  — *Genghis Khan*
 <!--QUOTE_END-->
