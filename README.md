@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Even when a friend does something you do not like, he continues to be your friend."**  — *Genghis Khan*
+**"There is no greater agony than bearing an untold story inside you."**  — *Maya Angelou*
 <!--QUOTE_END-->
