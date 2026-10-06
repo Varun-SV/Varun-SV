@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"There is no greater agony than bearing an untold story inside you."**  — *Maya Angelou*
+**"Know yourself and you will win all battles."**  — *Sun Tzu*
 <!--QUOTE_END-->
