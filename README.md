@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Know yourself and you will win all battles."**  — *Sun Tzu*
+**"The attempt to escape from pain, is what creates more pain."**  — *Gabor Mate*
 <!--QUOTE_END-->
