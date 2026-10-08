@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"The attempt to escape from pain, is what creates more pain."**  — *Gabor Mate*
+**"None of us can change our yesterdays but all of us can change our tomorrows."**  — *Colin Powell*
 <!--QUOTE_END-->
