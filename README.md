@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"None of us can change our yesterdays but all of us can change our tomorrows."**  — *Colin Powell*
+**"Don't be afraid to go slowly. Be afraid of stopping."**  — *Zen Proverb*
 <!--QUOTE_END-->
