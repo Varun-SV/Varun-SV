@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Don't be afraid to go slowly. Be afraid of stopping."**  — *Zen Proverb*
+**"Confidence breeds beauty."**  — *Estee Lauder*
 <!--QUOTE_END-->
