@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Confidence breeds beauty."**  — *Estee Lauder*
+**"The soul is neither born, and nor does it die."**  — *Bhagavad Gita*
 <!--QUOTE_END-->
