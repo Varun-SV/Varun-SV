@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"The soul is neither born, and nor does it die."**  — *Bhagavad Gita*
+**"Trying to define yourself is like trying to bite your own teeth."**  — *Alan Watts*
 <!--QUOTE_END-->
