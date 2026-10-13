@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Trying to define yourself is like trying to bite your own teeth."**  — *Alan Watts*
+**"Never spend your money before you have earned it."**  — *Thomas Jefferson*
 <!--QUOTE_END-->
