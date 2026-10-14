@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Never spend your money before you have earned it."**  — *Thomas Jefferson*
+**"We can spend our whole lives escaping from the monsters of our minds."**  — *Pema Chodron*
 <!--QUOTE_END-->
