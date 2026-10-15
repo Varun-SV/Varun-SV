@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"We can spend our whole lives escaping from the monsters of our minds."**  — *Pema Chodron*
+**"What loneliness is more lonely than distrust?"**  — *George Eliot*
 <!--QUOTE_END-->
