@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"What loneliness is more lonely than distrust?"**  — *George Eliot*
+**"Success does not consist in never making mistakes but in never making the same one a second time."**  — *George Bernard Shaw*
 <!--QUOTE_END-->
