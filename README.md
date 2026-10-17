@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Success does not consist in never making mistakes but in never making the same one a second time."**  — *George Bernard Shaw*
+**"A change is brought about because ordinary people do extraordinary things."**  — *Barack Obama*
 <!--QUOTE_END-->
