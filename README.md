@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"A change is brought about because ordinary people do extraordinary things."**  — *Barack Obama*
+**"Don't just sit there. Do something. The answers will follow."**  — *Mark Manson*
 <!--QUOTE_END-->
