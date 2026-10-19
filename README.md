@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Don't just sit there. Do something. The answers will follow."**  — *Mark Manson*
+**"The future depends on what you do today."**  — *Mahatma Gandhi*
 <!--QUOTE_END-->
