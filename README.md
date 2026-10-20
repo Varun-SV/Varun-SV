@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"The future depends on what you do today."**  — *Mahatma Gandhi*
+**"There are as many opinions as there are experts."**  — *Franklin D. Roosevelt*
 <!--QUOTE_END-->
