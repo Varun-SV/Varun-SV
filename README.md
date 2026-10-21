@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"There are as many opinions as there are experts."**  — *Franklin D. Roosevelt*
+**"Time you enjoy wasting, was not wasted."**  — *John Lennon*
 <!--QUOTE_END-->
