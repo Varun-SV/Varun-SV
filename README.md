@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Time you enjoy wasting, was not wasted."**  — *John Lennon*
+**"Night is a more quiet time to work. It aids thought."**  — *Alexander Graham Bell*
 <!--QUOTE_END-->
