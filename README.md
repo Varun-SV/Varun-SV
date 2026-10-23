@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Night is a more quiet time to work. It aids thought."**  — *Alexander Graham Bell*
+**"Wherever you are, it's the place you need to be."**  — *Maxime Lagace*
 <!--QUOTE_END-->
