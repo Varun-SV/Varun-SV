@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Wherever you are, it's the place you need to be."**  — *Maxime Lagace*
+**"Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition."**  — *John Eliot*
 <!--QUOTE_END-->
