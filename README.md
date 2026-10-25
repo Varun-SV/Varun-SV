@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition."**  — *John Eliot*
+**"Waste no more time arguing about what a good man should be. Be one."**  — *Marcus Aurelius*
 <!--QUOTE_END-->
