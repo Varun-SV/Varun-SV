@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Waste no more time arguing about what a good man should be. Be one."**  — *Marcus Aurelius*
+**"It is indeed a radical act of love just to sit down and be quiet for a time by yourself."**  — *Jon Kabat-Zinn*
 <!--QUOTE_END-->
