@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"It is indeed a radical act of love just to sit down and be quiet for a time by yourself."**  — *Jon Kabat-Zinn*
+**"None are more hopelessly enslaved than those who falsely believe they are free."**  — *Johann Wolfgang von Goethe*
 <!--QUOTE_END-->
