@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"None are more hopelessly enslaved than those who falsely believe they are free."**  — *Johann Wolfgang von Goethe*
+**"If a thing is worth doing, it is worth doing badly."**  — *Gilbert Chesterton*
 <!--QUOTE_END-->
