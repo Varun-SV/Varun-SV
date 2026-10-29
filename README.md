@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"If a thing is worth doing, it is worth doing badly."**  — *Gilbert Chesterton*
+**"Life is love and love is life."**  — *Elvis Presley*
 <!--QUOTE_END-->
