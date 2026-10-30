@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Life is love and love is life."**  — *Elvis Presley*
+**"Make each day your masterpiece."**  — *John Wooden*
 <!--QUOTE_END-->
