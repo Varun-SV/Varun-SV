@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Make each day your masterpiece."**  — *John Wooden*
+**"Some people don't like change, but you need to embrace change if the alternative is disaster."**  — *Elon Musk*
 <!--QUOTE_END-->
