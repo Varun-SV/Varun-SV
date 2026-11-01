@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Some people don't like change, but you need to embrace change if the alternative is disaster."**  — *Elon Musk*
+**"Everybody needs a passion. That's what keeps life interesting."**  — *Betty White*
 <!--QUOTE_END-->
