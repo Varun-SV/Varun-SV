@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Everybody needs a passion. That's what keeps life interesting."**  — *Betty White*
+**"The future doesn't belong to the faint-hearted; it belongs to the brave."**  — *Ronald Reagan*
 <!--QUOTE_END-->
