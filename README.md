@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"The future doesn't belong to the faint-hearted; it belongs to the brave."**  — *Ronald Reagan*
+**"Everything that is done in the world is done by hope."**  — *Martin Luther*
 <!--QUOTE_END-->
