@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Everything that is done in the world is done by hope."**  — *Martin Luther*
+**"Not doing it is certainly the best way to not getting it."**  — *Wayne Gretzky*
 <!--QUOTE_END-->
