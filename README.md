@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Not doing it is certainly the best way to not getting it."**  — *Wayne Gretzky*
+**"The guest will judge better of a feast than the cook."**  — *Aristotle*
 <!--QUOTE_END-->
