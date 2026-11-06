@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"The guest will judge better of a feast than the cook."**  — *Aristotle*
+**"Everything begins with an idea."**  — *Earl Nightingale*
 <!--QUOTE_END-->
