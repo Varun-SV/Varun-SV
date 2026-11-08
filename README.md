@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward."**  — *Unknown*
+**"What have you done today to make someone else happy?"**  — *Deepam Chaterjee*
 <!--QUOTE_END-->
