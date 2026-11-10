@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"It is the nature of the wise to resist pleasures, but the foolish to be a slave to them."**  — *Epictetus*
+**"Confidence breeds beauty."**  — *Estee Lauder*
 <!--QUOTE_END-->
