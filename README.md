@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Confidence breeds beauty."**  — *Estee Lauder*
+**"We would accomplish many more things if we did not think of them as impossible."**  — *Vince Lombardi*
 <!--QUOTE_END-->
