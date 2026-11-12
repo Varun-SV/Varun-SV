@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"We would accomplish many more things if we did not think of them as impossible."**  — *Vince Lombardi*
+**"Intuition is the ear of the soul."**  — *Neale Donald Walsch*
 <!--QUOTE_END-->
