@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Intuition is the ear of the soul."**  — *Neale Donald Walsch*
+**"No need to hurry. No need to sparkle. No need to be anybody but oneself."**  — *Virginia Woolf*
 <!--QUOTE_END-->
