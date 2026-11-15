@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Freeing oneself from words is liberation."**  — *Bodhidharma*
+**"When your intuition is strong, follow it."**  — *Lolly Daskal*
 <!--QUOTE_END-->
