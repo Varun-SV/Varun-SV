@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"When your intuition is strong, follow it."**  — *Lolly Daskal*
+**"The more one judges, the less one loves."**  — *Honore de Balzac*
 <!--QUOTE_END-->
