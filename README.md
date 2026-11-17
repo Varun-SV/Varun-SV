@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"The more one judges, the less one loves."**  — *Honore de Balzac*
+**"Coming together is a beginning, staying together is progress, and working together is success."**  — *Henry Ford*
 <!--QUOTE_END-->
