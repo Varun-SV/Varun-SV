@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Coming together is a beginning, staying together is progress, and working together is success."**  — *Henry Ford*
+**"You have to give up some of the old so that you can make room for the new."**  — *Yanni*
 <!--QUOTE_END-->
