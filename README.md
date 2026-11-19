@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"You have to give up some of the old so that you can make room for the new."**  — *Yanni*
+**"If you think you can do a thing or think you can't do a thing, you're right."**  — *Henry Ford*
 <!--QUOTE_END-->
