@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"If you think you can do a thing or think you can't do a thing, you're right."**  — *Henry Ford*
+**"Dreams are the touchstones of our characters."**  — *Henry David Thoreau*
 <!--QUOTE_END-->
