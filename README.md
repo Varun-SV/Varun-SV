@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Dreams are the touchstones of our characters."**  — *Henry David Thoreau*
+**"Just as true humor is laughter at oneself, true humanity is knowledge of oneself."**  — *Alan Watts*
 <!--QUOTE_END-->
