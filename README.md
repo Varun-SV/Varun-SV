@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Just as true humor is laughter at oneself, true humanity is knowledge of oneself."**  — *Alan Watts*
+**"The older you get, the better you get. Unless you're a banana."**  — *Betty White*
 <!--QUOTE_END-->
