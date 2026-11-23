@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"The older you get, the better you get. Unless you're a banana."**  — *Betty White*
+**"Each path to knowledge involves different rules and these rules are not interchangeable."**  — *Barack Obama*
 <!--QUOTE_END-->
