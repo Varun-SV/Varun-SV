@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Each path to knowledge involves different rules and these rules are not interchangeable."**  — *Barack Obama*
+**"Be not glad at the misfortune of another, though he may be your enemy."**  — *George Washington*
 <!--QUOTE_END-->
