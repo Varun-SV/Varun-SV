@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Be not glad at the misfortune of another, though he may be your enemy."**  — *George Washington*
+**"Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference."**  — *Robert Frost*
 <!--QUOTE_END-->
