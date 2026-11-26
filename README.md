@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference."**  — *Robert Frost*
+**"Relax. Nothing is under control."**  — *Adi Da Samraj*
 <!--QUOTE_END-->
