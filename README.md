@@ -58,5 +58,5 @@ Currently exploring GPU-accelerated runtimes and scalable AI workflows.
 ## Daily Motivation
 
 <!--QUOTE_START-->
-**"Keep your eyes on the stars, but remember to keep your feet on the ground."**  — *Theodore Roosevelt*
+**"Help others and give something back."**  — *Arnold Schwarzenegger*
 <!--QUOTE_END-->
